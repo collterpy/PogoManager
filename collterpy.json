@@ -1,9 +1,6 @@
 {
-  "update": {
-    "version": "1.0.1",
-    "url": ""
   },
-  "memo": "Maintenance engineer: 维护人：collterpy\n最近更新：2025年4月5日\nAerilate支持go版本:0.353.2/0.355.0\nPGTools Beta(测试版)支援go版本:0.355.0\nPokemod:0.353.2/0.355.0\nShungo:0.353.2/0.355.0",
+  "memo": "维护：collterpy\n最近更新：2025年4月5日",
   "data": [
     {
       "name": "安卓远程刷机\n闲鱼用户collterpy",
@@ -102,11 +99,11 @@
       "url": "https://shiny.wvdesign.tw/file/apk/Pokewalk_3.0.5.apk"
     },
     {
-      "name": "Pokemon HOME\nv3.0.0\n换黑盒子",
+      "name": "Pokemon HOME\nv3.0.0\n换美路坦黑盒子",
       "url": "https://shiny.wvdesign.tw/file/apk/pokemonhome_3.0.0.apk"
     },
     {
-      "name": "黑旋风\nVelocity\nv8.8.1",
+      "name": "Discord坐标传送\nVelocity\nv8.8.1",
       "url": "https://shiny.wvdesign.tw/file/apk/Velocity_v8.8.1.apk"
     },
     {
