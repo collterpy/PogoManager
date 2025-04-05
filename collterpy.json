@@ -3,30 +3,30 @@
     "version": "1.0.1",
     "url": ""
   },
-  "memo": "Maintenance engineer: Reeky（維護工程師）\nPublished at 2022（發表於2022）\n暴力功支援版本:0.353.2/0.355.0\nAerilate支援版本:0.353.2/0.355.0\nPGTools Final(正式版)支援版本:0.355.0\nPGTools Beta(測試版)支援版本:0.355.0\nPokemod:0.353.2/0.355.0\nShungo:0.353.2/0.355.0",
+  "memo": "Maintenance engineer: Reeky（维护工程师）\nPublished at 2022（发表于2022）\n暴力功支援版本:0.353.2/0.355.0\nAerilate支援版本:0.353.2/0.355.0\nPGTools Final(正式版)支援版本:0.355.0\nPGTools Beta(测试版)支援版本:0.355.0\nPokemod:0.353.2/0.355.0\nShungo:0.353.2/0.355.0",
   "data": [
     {
-      "name": "有任何建議或問題\n請洽閃爆安卓教學群",
+      "name": "安卓远程刷机\n闲鱼用户collterpy",
       "url": "https://line.me/ti/g2/aGejlGO0N3nKYe_r9AiXJses_lLQb-jUn2fxYw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default"
     },
     {
-      "name": "寶可夢飛行程式\n教學網站",
-      "url": "https://cindy.wvdesign.tw/"
+      "name": "PGtools赞助帮拍\n拍1件=8元/代币",
+      "url": "https://m.tb.cn/h.6UFXPey?tk=vu0teyRMIDC"
     },
     {
-      "name": "寶可夢商店版\nPokemon Go\nv0.353.2\nv8a-64位元\n需用APKMirror Installer安裝",
+      "name": "宝可梦商店版\nPokemon Go\nv0.353.2\nv8a-64位元\n需用mt管理器app安装",
       "url": "https://github.com/topsuplove1122/PokemonGO_Apk/releases/download/v0.353.2/com.nianticlabs.pokemongo_0.353.2.apkm"
     },
     {
-      "name": "寶可夢商店版\nPokemon Go\nv0.355.0\nv8a-64位元\n需用APKMirror Installer安裝",
+      "name": "宝可梦商店版\nPokemon Go\nv0.355.0\nv8a-64位元\n需用mt管理器app安装",
       "url": "https://github.com/topsuplove1122/PokemonGO_Apk/releases/download/v0.355.0/com.nianticlabs.pokemongo_0.355.0.apkm"
     },
     {
-      "name": "寶可夢三星版\nPokemon Go\nv0.353.2\nv8a-64位元",
+      "name": "宝可梦三星版\nPokemon Go\nv0.353.2\nv8a-64位",
       "url": "https://github.com/topsuplove1122/PokemonGO_Apk/releases/download/v0.353.2/com.nianticlabs.pokemongo.ares_0.353.2.apk"
     },
     {
-      "name": "寶可夢三星版\nPokemon Go\nv0.355.0\nv8a-64位元",
+      "name": "宝可梦三星版\nPokemon Go\nv0.355.0\nv8a-64位",
       "url": "https://github.com/topsuplove1122/PokemonGO_Apk/releases/download/v0.355.0/pokemongo.ares_0.355.0.apk"
     },
     {
@@ -38,51 +38,51 @@
       "url": "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.5.apk"
     },
     {
-      "name": "暴力功\nPolygon#\nv0.9.3-fix\n修復被自動刪除的問題",
+      "name": "暴力功\nPolygon#\nv0.9.3-fix\n修复被自动删除的问题",
       "url": "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.3-fix.apk"
     },
     {
-      "name": "暴力功\n繁化版\nPolygon#\nv0.9.2-b.12",
-      "url": "https://shiny.wvdesign.tw/file/apk/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29polygonsharp-0.9.2-b.12.apk"
-    },
-    {
-      "name": "艾略特\nAerilate\nv0.1.4",
+      "name": "艾略特英文版\nAerilate\nv0.1.4",
       "url": "https://dl.aerilate.evermorelabs.io/apk/com.evermorelabs.aerilate-0.1.4.apk"
     },
     {
-      "name": "艾略特\n繁化版\nAerilate\nv0.1.4",
+      "name": "艾略特\n中文版\nAerilate\nv0.1.4",
       "url": "https://reeky.wvdesign.tw/file/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29aerilate_0.1.4_efe46e.apk"
     },
     {
-      "name": "自動掃色\nPokeList\n官方原版",
+      "name": "自动扫色\nPokeList\n官方原版",
       "url": "https://moonani.com/PokeList/PokeList.apk"
     },
     {
-      "name": "自動掃色\n繁化版\nPokeList\nv1.3.14",
+      "name": "传送点百闪中文版\nPokeList\nv1.3.17",
       "url": "https://shiny.wvdesign.tw/file/apk/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29PokeList_1.3.14.apk"
     },
     {
-      "name": "自動抓\nPogo Auto Catch\n官網",
+      "name": "自动抓\nPogo Auto Catch\n官网",
       "url": "https://pgtools.net/downloads/auto-catch"
     },
     {
-      "name": "Pokemod\n官網",
+      "name": "Pokemod官网\n可下载英文版",
       "url": "https://pokemod.dev/zh/"
     },
     {
-      "name": "自動掃色\nPokeList\n官網雷達",
+      "name": "传送点百闪英文版\nPokeList\n官网雷达",
       "url": "https://moonani.com/PokeList"
     },
     {
-      "name": "WeCatch\nv4.4.5\n雷達",
+      "name": "WeCatch\nv4.4.5\n雷达",
       "url": "https://shiny.wvdesign.tw/file/apk/wecatch_v4.4.5.apk"
     },
     {
-      "name": "報寶貝\nPoke Find\nv2.3.13\n雷達",
+      "name": "报宝贝\nPoke Find\nv2.3.13\n雷达",
       "url": "https://shiny.wvdesign.tw/file/apk/Find_Poke_2.3.13.apk"
     },
     {
-      "name": "PoGoQuest\nv1.1\n雷達\n可查霧區與雪地座標",
+      "name": "报宝贝\nPoke Find\n网页版",
+      "url": "https://twpkinfo.com/ipoke.aspx"
+    },
+    {
+      "name": "PoGoQuest\nv1.1\n雷达\n可查雾区与雪地座标",
       "url": "https://shiny.wvdesign.tw/file/apk/PoGoQuest-v1.1.apk"
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://shiny.wvdesign.tw/file/apk/pokegenie_8.3.4.apk"
     },
     {
-      "name": "打火箭隊\nData Hub\nv2.1.3",
+      "name": "打火箭队\nData Hub\nv2.1.3",
       "url": "https://shiny.wvdesign.tw/file/apk/data-hub-2.1.3.apk"
     },
     {
@@ -102,27 +102,27 @@
       "url": "https://shiny.wvdesign.tw/file/apk/Pokewalk_3.0.5.apk"
     },
     {
-      "name": "Pokemon HOME\nv3.0.0\n換黑盒子",
+      "name": "Pokemon HOME\nv3.0.0\n换黑盒子",
       "url": "https://shiny.wvdesign.tw/file/apk/pokemonhome_3.0.0.apk"
     },
     {
-      "name": "黑旋風\nVelocity\nv8.8.1",
+      "name": "黑旋风\nVelocity\nv8.8.1",
       "url": "https://shiny.wvdesign.tw/file/apk/Velocity_v8.8.1.apk"
     },
     {
-      "name": "冰箱\nIce Box\n凍結APP",
+      "name": "冰箱\nIce Box\n冻结APP",
       "url": "https://play.google.com/store/apps/details?id=com.catchingnow.icebox"
     },
     {
-      "name": "遠端協助APP\nAny Desk\nv7.0.0",
+      "name": "远端协助APP\nAny Desk\nv7.0.0",
       "url": "https://shiny.wvdesign.tw/file/apk/AnyDesk_7.0.0.apk"
     },
     {
-      "name": "遠端協助外掛\nAnyDeskcontrolplugin(ad1)\nv1.0.18",
+      "name": "远端协助外挂\nAnyDeskcontrolplugin(ad1)\nv1.0.18",
       "url": "https://shiny.wvdesign.tw/file/apk/AnyDeskcontrolplugin(ad1)_1.0.18.apk"
     },
     {
-      "name": "遠端協助外掛\nRustdesk\nv1.2.3-2",
+      "name": "远端协助外挂\nRustdesk\nv1.2.3-2",
       "url": "https://shiny.wvdesign.tw/file/apk/rustdesk-1.2.3-2.apk"
     },
     {
@@ -130,79 +130,79 @@
       "url": "https://shiny.wvdesign.tw/file/apk/better-open-with-1-4-16.apk"
     },
     {
-      "name": "地圖趴趴走\nv1.4.11",
+      "name": "地图趴趴走\nv1.4.11",
       "url": "https://shiny.wvdesign.tw/file/apk/mapwalker_V1.4.11.apk"
     },
     {
-      "name": "J牌飛行器官方版\nv4.3.2\n如果安裝後啟動有錯誤視窗,手機登入任意google帳號後即可解決",
+      "name": "J牌飞行器官方版\nv4.3.2\n如果安装后启动有错误视窗,手机登入任意google帐号后即可解决",
       "url": "https://shiny.wvdesign.tw/file/apk/gpsjoystick-4.3.2.apk"
     },
     {
-      "name": "J牌飛行器去更新&去廣告&去錯誤提示版\n已改包名可直接使用\nv4.3.2\n地圖修正",
+      "name": "J牌飞行器去更新&去广告&去错误提示版\n已改包名可直接使用\nv4.3.2\n地图修正",
       "url": "https://shiny.wvdesign.tw/file/apk/J%E7%89%8C%E7%BE%8E%E5%8C%96/%E5%8E%9F%E7%89%88_%E5%8E%BB%E6%9B%B4%E6%96%B0_%E5%8E%BB%E5%BB%A3%E5%91%8A_%E5%8E%BB%E9%8C%AF%E8%AA%A4%E6%8F%90%E7%A4%BA.apk"
     },
     {
-      "name": "J牌飛行器色違卡比獸版\nv4.3.2\n地圖修正",
+      "name": "J牌飞行器色违卡比兽版\nv4.3.2\n地图修正",
       "url": "https://shiny.wvdesign.tw/file/apk/J%E7%89%8C%E7%BE%8E%E5%8C%96/%E2%9C%A8Shiny%20%E2%9C%A8_%E5%8D%A1%E6%AF%94%E7%8D%B8%28%E8%89%B2%E9%81%95%29.apk"
     },
     {
-      "name": "J牌飛行器可愛卡比獸與小卡比獸\nv4.3.3\n地圖修正",
+      "name": "J牌飞行器可爱卡比兽与小卡比兽\nv4.3.3\n地图修正",
       "url": "http://shiny.wvdesign.tw/file/apk/J%E7%89%8C%E7%BE%8E%E5%8C%96/%E2%9C%A8Shiny%20%E2%9C%A8_%E5%8F%AF%E6%84%9B%E5%8D%A1%E6%AF%94%E7%8D%B8%E8%88%87%E5%B0%8F%E5%8D%A1%E6%AF%94%E7%8D%B8_682b2.apk"
     },
     {
-      "name": "J牌飛行器色違牛仔卡比獸\nv4.3.3\n小米平板可用\n地圖修正",
+      "name": "J牌飞行器色违牛仔卡比兽\nv4.3.3\n小米平板可用\n地图修正",
       "url": "https://shiny.wvdesign.tw/file/apk/J%E7%89%8C%E7%BE%8E%E5%8C%96/%E2%9C%A8Shiny%E2%9C%A8_%E8%89%B2%E9%81%95%E7%89%9B%E4%BB%94%E5%8D%A1%E6%AF%94%E7%8D%B8.apk"
     },
     {
-      "name": "實體手環\n自動按藍芽確認\nPoGo+LE\nv1.1.2",
+      "name": "实体手环\n自动按蓝芽确认\nPoGo+LE\nv1.1.2",
       "url": "https://shiny.wvdesign.tw/file/apk/PoGo+LE_1.1.2.apk"
     },
     {
-      "name": "壺中界\nv6.3",
+      "name": "壶中界\nv6.3",
       "url": "https://shiny.wvdesign.tw/file/apk/island_6.3.apk"
     },
     {
-      "name": "自動精靈\nv2.26.3",
+      "name": "自动精灵\nv2.26.3",
       "url": "https://shiny.wvdesign.tw/file/apk/zdjl_v2.26.3.apk"
     },
     {
-      "name": "自動精靈\nv2.27.2",
+      "name": "自动精灵\nv2.27.2",
       "url": "https://shiny.wvdesign.tw/file/apk/zdjl_v2.27.2.apk"
     },
     {
-      "name": "自動點擊器\n去廣告\nv2.1.4",
+      "name": "自动点击器\n去广告\nv2.1.4",
       "url": "https://shiny.wvdesign.tw/file/apk/Auto.Clicker.v.2.1.4_NoAD.apk"
     },
     {
-      "name": "螢幕感知器\nv2.2.6",
+      "name": "萤幕感知器\nv2.2.6",
       "url": "https://shiny.wvdesign.tw/file/apk/ProximityService_2.2.6.apk"
     },
     {
-      "name": "三星應用商店\nsamsungapps\nv4.5.84.5",
+      "name": "三星应用商店\nsamsungapps\nv4.5.84.5",
       "url": "https://shiny.wvdesign.tw/file/apk/samsungapps_4.5.84.5.apk"
     },
     {
-      "name": "pushbullet\n跨設備傳訊息_安卓適用\nv18.9.3",
+      "name": "pushbullet\n跨设备传讯息_安卓适用\nv18.9.3",
       "url": "https://shiny.wvdesign.tw/file/apk/pushbullet_18.9.3.apk"
     },
     {
-      "name": "pushbullet\n跨設備傳訊息_蘋果適用\n網頁版",
+      "name": "pushbullet\n跨设备传讯息_苹果适用\n网页版",
       "url": "https://www.pushbullet.com/"
     },
     {
-      "name": "創建快捷工具",
+      "name": "创建快捷工具",
       "url": "https://shiny.wvdesign.tw/file/apk/shortcut.apk"
     },
     {
-      "name": "APKMirror Installer\nAPKMirror安裝器\nv1.7.1\n繁化版",
+      "name": "APKMirror Installer\nAPKMirror安装器\nv1.7.1\n繁化版",
       "url": "https://shiny.wvdesign.tw/file/apk/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29APKMirror_Installer_1.7.1.apk"
     },
     {
-      "name": "smartautoclicker\n自動點擊\n繁化版",
+      "name": "smartautoclicker\n自动点击\n繁化版",
       "url": "https://shiny.wvdesign.tw/file/apk/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29smartautoclicker.apk"
     },
     {
-      "name": "Extinguish\n息屏運行\nv0.2.6\n繁化版",
+      "name": "Extinguish\n息屏运行\nv0.2.6\n繁化版",
       "url": "https://shiny.wvdesign.tw/file/modules/%E6%81%AF%E5%B1%8F%E9%81%8B%E8%A1%8C/Extinguish_0.2.6.apk"
     },
     {
@@ -210,112 +210,76 @@
       "url": "https://shiny.wvdesign.tw/file/modules/magisk/LSPosed-v1.9.3_mod-7244-zygisk-release.zip"
     },
     {
-      "name": "去廣告模組\nad_blocker\nMagisk模組",
+      "name": "去广告模组\nad_blocker\nMagisk模组",
       "url": "https://shiny.wvdesign.tw/file/modules/magisk/ad_blocker.zip"
     },
     {
-      "name": "systemless-hosts\nV17.0\nMagisk模組",
+      "name": "systemless-hosts\nV17.0\nMagisk模组",
       "url": "https://shiny.wvdesign.tw/file/modules/magisk/systemless-hosts_v17.0.zip"
     },
     {
-      "name": "Line去廣告模組\nv1.1\nMagisk模組",
-      "url": "https://shiny.wvdesign.tw/file/modules/magisk/Auto_disable_line_AD.zip"
-    },
-    {
-      "name": "MIUI擋更新模組\nMagisk模組",
+      "name": "MIUI挡更新模组\nMagisk模组",
       "url": "https://shiny.wvdesign.tw/file/modules/magisk/MIUI-99.99.99.zip"
     },
     {
-      "name": "修復safetynet模組\nPlayIntegrityFix\nv18.8\nzygisk\nMagisk模組",
+      "name": "修复safetynet模组\nPlayIntegrityFix\nv18.8\nzygisk\nMagisk模组",
       "url": "http://shiny.wvdesign.tw/file/modules/magisk/PlayIntegrityFix_v18.8.zip"
     },
     {
-      "name": "修復safetynet模組\nPlayIntegrityFix\nv18.8\n三星修復\nzygisk\nMagisk模組",
+      "name": "修复safetynet模组\nPlayIntegrityFix\nv18.8\n三星修复\nzygisk\nMagisk模组",
       "url": "http://shiny.wvdesign.tw/file/modules/magisk/PlayIntegrityFix_v18.8_smasung.zip"
     },
     {
-      "name": "修復AR模組\nDeviceFeaturesEnabler\nv0.4\nMagisk模組",
+      "name": "修复AR模组\nDeviceFeaturesEnabler\nv0.4\nMagisk模组",
       "url": "http://shiny.wvdesign.tw/file/modules/magisk/DeviceFeaturesEnabler.zip"
     },
     {
-      "name": "修復ART模組\nART-fix\nMagisk模組",
+      "name": "修复ART模组\nART-fix\nMagisk模组",
       "url": "https://cindy.wvdesign.tw/file/moudle/ART_fix.zip"
     },
     {
-      "name": "sui\nv13.5.1\nriru\nMagisk模組",
-      "url": "https://shiny.wvdesign.tw/file/modules/%E6%81%AF%E5%B1%8F%E9%81%8B%E8%A1%8C/sui-riru-v13.5.1-release.zip"
-    },
-    {
-      "name": "sui\nv13.5.1\nzygisk\nMagisk模組",
-      "url": "https://shiny.wvdesign.tw/file/modules/%E6%81%AF%E5%B1%8F%E9%81%8B%E8%A1%8C/sui-zygisk-v13.5.1-release.zip"
-    },
-    {
-      "name": "Fix_Pokemon\nMagisk模組",
+      "name": "Fix_Pokemon\nMagisk模组",
       "url": "https://reeky.wvdesign.tw/file/magisk/modules/Fix_Pokemon.zip"
     },
     {
-      "name": "Mock Hider\nv1.9\nLSPosed模組",
+      "name": "Mock Hider\nv1.9\nLSPosed模组",
       "url": "https://shiny.wvdesign.tw/file/modules/LSPosed/MockHider_v1.9.apk"
     },
     {
-      "name": "HideMockLocation\nv2.1.4\nLSPosed模組",
-      "url": "https://shiny.wvdesign.tw/file/modules/LSPosed/HideMockLocation_v2.1.4.apk"
-    },
-    {
-      "name": "自由降版本\nXDowngrader\nv1.1\nLSPosed模組",
-      "url": "https://shiny.wvdesign.tw/file/modules/LSPosed/xdowngrader_v1.1.apk"
-    },
-    {
-      "name": "阻擋自動更新\nupdatelocker\nv1.2.5\nLSPosed模組",
+      "name": "阻挡自动更新\nupdatelocker\nv1.2.5\nLSPosed模组",
       "url": "https://shiny.wvdesign.tw/file/modules/LSPosed/updatelocker_v1.2.5.apk"
     },
     {
-      "name": "非殘\nIAmNotDisabled\nv6.6\nLSPosed模組",
+      "name": "非残\nIAmNotDisabled\nv6.6\nLSPosed模组",
       "url": "https://shiny.wvdesign.tw/file/modules/LSPosed/IAmNotDisabled-6.6-hook.apk"
     },
     {
-      "name": "保後台\nAppRetentionHook\nv4.2.5\nLSPosed模組",
+      "name": "保后台\nAppRetentionHook\nv4.2.5\nLSPosed模组",
       "url": "https://shiny.wvdesign.tw/file/modules/LSPosed/AppRetention4.2.5.apk"
     },
     {
-      "name": "直線距離計算機",
+      "name": "直线距离冷却时间计算",
       "url": "http://yeeee.ddns.net/"
     },
     {
-      "name": "202312社群日花區路徑\nby Carrie",
-      "url": "https://shiny.wvdesign.tw/file/gpx/202312%E7%A4%BE%E7%BE%A4%E6%97%A5%E8%8A%B1%E5%8D%80%E8%B7%AF%E5%BE%91_by_Carrie.gpx"
-    },
-    {
-      "name": "社群日 路徑GPX\n冬令適用到112年3月",
-      "url": "https://shiny.wvdesign.tw/file/gpx/%E7%A4%BE%E7%BE%A4%E6%97%A5%20%E8%B7%AF%E5%BE%91.gpx"
-    },
-    {
-      "name": "聚焦時刻GPX\n冬令適用到112年3月",
-      "url": "https://shiny.wvdesign.tw/file/gpx/%E8%81%9A%E7%84%A6%E6%99%82%E5%88%BB-3%E6%9C%88.gpx"
-    },
-    {
-      "name": "全新聚焦時刻GPX\n4月最新版",
-      "url": "https://shiny.wvdesign.tw/file/gpx/%E8%81%9A%E7%84%A6%E6%99%82%E5%88%BB-4%E6%9C%88%E6%9C%80%E6%96%B0%E7%89%88.gpx"
-    },
-    {
-      "name": "PGTools設定檔\nfor贊助版\n來源官網",
+      "name": "PGTools设定档\nfor赞助版\n来源官网",
       "url": "http://tinyurl.com/mufhzy2h"
     },
     {
-      "name": "PGTools設定檔",
+      "name": "PGTools设定档",
       "url": "https://www.mediafire.com/file/yrgkjujo2k650hs/%25E8%2587%25AA%25E5%258B%2595%25E6%258A%2593%25E8%25A8%25AD%25E5%25AE%259A%25E6%25AA%2594.txt/file"
     },
     {
-      "name": "APKMirror Installer\napks/apkm安裝器",
-      "url": "https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod"
+      "name": "WebView网页组件\n谷歌商店下载更新",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.webview"
     },
     {
-      "name": "WebView",
-      "url": "https://play.google.com/store/apps/details?id=com.google.android.webview&hl=zh_TW&gl=US"
-    },
+      "name": "Chrome\n谷歌商店下载更新",
+      "url": "https://play.google.com/store/apps/details?id=com.android.chrome"
+    }
     {
-      "name": "Chrome",
-      "url": "https://play.google.com/store/apps/details?id=com.android.chrome&hl=zh_TW&gl=US"
+      "name": "ARcore\n谷歌商店下载更新",
+      "url": "https://play.google.com/store/apps/details?id=com.google.ar.core"
     }
   ]
 }
