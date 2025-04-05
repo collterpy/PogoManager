@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "url": ""
   },
-  "memo": "Maintenance engineer: Reeky（维护工程师）\nPublished at 2022（发表于2022）\n暴力功支援版本:0.353.2/0.355.0\nAerilate支援版本:0.353.2/0.355.0\nPGTools Final(正式版)支援版本:0.355.0\nPGTools Beta(测试版)支援版本:0.355.0\nPokemod:0.353.2/0.355.0\nShungo:0.353.2/0.355.0",
+  "memo": "维护：collterpy\n更新日期：2025年4月6日"
   "data": [
     {
       "name": "安卓远程刷机\n闲鱼用户collterpy",
@@ -30,11 +30,11 @@
       "url": "https://github.com/topsuplove1122/PokemonGO_Apk/releases/download/v0.355.0/pokemongo.ares_0.355.0.apk"
     },
     {
-      "name": "暴力功\nPolygon#\nv0.9.3",
+      "name": "暴力功英文版\nPolygon#\nv0.9.3",
       "url": "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.3.apk"
     },
     {
-      "name": "暴力功\nPolygon#\nv0.9.5",
+      "name": "暴力功英文版\nPolygon#\nv0.9.5",
       "url": "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.5.apk"
     },
     {
@@ -42,15 +42,15 @@
       "url": "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.3-fix.apk"
     },
     {
-      "name": "艾略特英文版\nAerilate\nv0.1.4",
+      "name": "Aerilate英文原版\nAerilate\nv0.1.4",
       "url": "https://dl.aerilate.evermorelabs.io/apk/com.evermorelabs.aerilate-0.1.4.apk"
     },
     {
-      "name": "艾略特\n中文版\nAerilate\nv0.1.4",
+      "name": "Aerilate艾略特\n中文版\nv0.1.4",
       "url": "https://reeky.wvdesign.tw/file/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29aerilate_0.1.4_efe46e.apk"
     },
     {
-      "name": "自动扫色\nPokeList\n官方原版",
+      "name": "传送点百闪\nPokeList\n英文原版",
       "url": "https://moonani.com/PokeList/PokeList.apk"
     },
     {
@@ -62,11 +62,11 @@
       "url": "https://pgtools.net/downloads/auto-catch"
     },
     {
-      "name": "Pokemod官网\n可下载英文版",
+      "name": "Pokemod官网\n可下载英文原版",
       "url": "https://pokemod.dev/zh/"
     },
     {
-      "name": "传送点百闪英文版\nPokeList\n官网雷达",
+      "name": "传送点百闪英文原版\nPokeList\n官网雷达",
       "url": "https://moonani.com/PokeList"
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://shiny.wvdesign.tw/file/apk/pokegenie_8.3.4.apk"
     },
     {
-      "name": "打火箭队\nData Hub\nv2.1.3",
+      "name": "数据库\nData Hub\nv2.1.3",
       "url": "https://shiny.wvdesign.tw/file/apk/data-hub-2.1.3.apk"
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://shiny.wvdesign.tw/file/apk/pokemonhome_3.0.0.apk"
     },
     {
-      "name": "黑旋风\nVelocity\nv8.8.1",
+      "name": "Discord传送坐标\nVelocity\nv8.8.1",
       "url": "https://shiny.wvdesign.tw/file/apk/Velocity_v8.8.1.apk"
     },
     {
@@ -274,8 +274,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.google.android.webview"
     },
     {
-      "name": "Chrome\n谷歌商店下载更新",
-      "url": "https://play.google.com/store/apps/details?id=com.android.chrome"
+      "name": "google服务\n谷歌商店下载更新",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.gms"
     }
     {
       "name": "ARcore\n谷歌商店下载更新",
