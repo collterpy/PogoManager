@@ -22,7 +22,7 @@
       "url" : "https://www.apkmirror.com/apk/niantic-inc/pokemon-go/variant-%7B%22arches_slug%22%3A%5B%22arm64-v8a%22%5D%7D/"
     },
     {
-      "name" : "宝可梦三星版\n安卓13以上不可用\nAPMIRROR下载\nv0.353.2\nv8a-64位\n选版本，点红色下载按钮",
+      "name" : "宝可梦三星版\n安卓13以上不可用\nAPMIRROR下载\nv8a-64位\n选版本，点红色下载按钮",
       "url" : "https://www.apkmirror.com/apk/niantic-inc/pokemon-go-samsung-galaxy-apps-version/variant-%7B%22arches_slug%22%3A%5B%22arm64-v8a%22%5D%7D/"
     },
     {
@@ -34,7 +34,7 @@
       "url" : "https://dl.aerilate.evermorelabs.io/apk/com.evermorelabs.aerilate-0.1.4.apk"
     },
     {
-      "name" : "Aerilate中文版\nv0.1.4\n小米双开版",
+      "name" : "Aerilate中文版\nv0.1.4\n小米双开中文版",
       "url" : "https://share.feijipan.com/s/dpDVvLYh"
     },
     {
@@ -70,7 +70,7 @@
       "url" : "https://shungo.app"
     },
     {
-      "name" : "Shungo APP下载",
+      "name" : "Shungo APP下载\n会员14欧元/月",
       "url" : "https://shungo.app/shungo.apk"
     },
     {
@@ -82,7 +82,7 @@
       "url" : "https://play.google.com/store/apps/details?id=com.pkinfo.screencapture"
     },
     {
-      "name" : "Surfing模块\n快捷方式apk\nWeb面板\n科学双开go",
+      "name" : "Surfing模块\n快捷方式apk\nWeb面板apk\n科学双开go",
       "url" : "https://share.feijipan.com/s/qlFoMOjo"
     },
     {
@@ -260,6 +260,6 @@
     {
       "name" : "加速机场推荐\n一分机场\n1000G不限时19元",
       "url" : "https://xn--4gqx1hgtfdmt.com/#/register?code=OouO3rgW"
-    },
+    }
 	]
 }
