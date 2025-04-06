@@ -3,10 +3,10 @@
      "version" : "1.0.1",
      "url" : ""
   },
-  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年4月6日",
+  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年4月7日",
   "data" : [
     {
-      "name" : "安卓远程刷机\n闲鱼用户collterpy",
+      "name" : "安卓远程刷机\n闲鱼用户collterpy\n关注我主页看帖",
       "url" : "https://h5.m.goofish.com/item?forceFlush=1&id=756561950583&ut_sk=1.ZKOkhLIl66oDACvEEwz1Nm8Y_21407387_1743900141747.copy.detail.756561950583.2959935553"
     },
     {
@@ -34,7 +34,7 @@
       "url" : "https://dl.aerilate.evermorelabs.io/apk/com.evermorelabs.aerilate-0.1.4.apk"
     },
     {
-      "name" : "Aerilate中文版\nv0.1.4",
+      "name" : "Aerilate中文版\nv0.1.4\n小米双开版",
       "url" : "https://share.feijipan.com/s/dpDVvLYh"
     },
     {
@@ -82,7 +82,11 @@
       "url" : "https://play.google.com/store/apps/details?id=com.pkinfo.screencapture"
     },
     {
-      "name" : "Surfing模块\n快捷方式apk\nWeb面板",
+      "name" : "Surfing模块\n快捷方式apk\nWeb面板\n科学双开go",
+      "url" : "https://share.feijipan.com/s/qlFoMOjo"
+    },
+    {
+      "name" : "Flymego\n中文版\nv0.3.0",
       "url" : "https://share.feijipan.com/s/qlFoMOjo"
     },
     {
@@ -100,6 +104,10 @@
     {
       "name" : "Poke Genie\n谷歌商店下载\n查PVP IV数据",
       "url" : "https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard"
+    },
+    {
+      "name" : "MIUI隐藏设置\n谷歌商店下载",
+      "url" : "https://play.google.com/store/apps/details?id=com.ceyhan.sets"
     },
     {
       "name" : "DeFit\n谷歌商店下载\n孵蛋app",
@@ -214,12 +222,12 @@
       "url" : "https://discord.gg/6NEF9GM"
     },
     {
-      "name" : "Google服务下载更新",
+      "name" : "Google服务\n下载更新",
       "url" : "https://play.google.com/store/apps/details/Google_Play_services?id=com.google.android.gms"
     },
     {
-      "name" : "apkm安装器\n谷歌商店下载",
-      "url" : "https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod"
+      "name" : "discord组织\n谷歌商店下载",
+      "url" : "https://play.google.com/store/apps/details?id=com.discord"
     },
     {
       "name" : "WebView下载更新",
