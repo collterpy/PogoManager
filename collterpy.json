@@ -3,7 +3,7 @@
      "version" : "1.0.1",
      "url" : ""
   },
-  "memo" : "维护\n更新时间：2025年4月6日\n暴力功适配go版本:0.353.2/0.355.0\nAerilate适配版本:0.353.2/0.355.0\nPGTools Beta(测试版)适配go版本:0.355.0\nPokemod:0.353.2/0.355.0\nShungo:0.353.2/0.355.0",
+  "memo" : "维护：Collterpy\n更新时间：2025年4月6日\n暴力功适配go版本:0.353.2/0.355.0\nAerilate适配版本:0.353.2/0.355.0\nPGTools Beta(测试版)适配go版本:0.355.0\nPokemod:0.353.2/0.355.0\nShungo:0.353.2/0.355.0",
   "data" : [
     {
       "name" : "安卓远程刷机\n闲鱼用户collterpy",
@@ -66,7 +66,7 @@
       "url" : "https://pgtools.net/downloads/auto-catch"
     },
     {
-      "name" : "Pokemod官网\n可查看功能并下载英文原版",
+      "name" : "Pokemod官网\n可查看功能并下载英文原版\n会员7欧/月",
       "url" : "https://pokemod.dev/zh/"
     },
 	  {
@@ -302,7 +302,7 @@
       "url" : "https://play.google.com/store/apps/details/Google_Play_services?id=com.google.android.gms&hl=en"
     },
 	  {
-      "name" : "APKMirror Installer\napks/apkm安装器",
+      "name" : "apkm安装器\n谷歌商店下载",
       "url" : "https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod"
     },
 	  {
