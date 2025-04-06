@@ -14,36 +14,24 @@
       "url" : "https://h5.m.goofish.com/item?forceFlush=1&id=831335635827&ut_sk=1.ZKOkhLIl66oDACvEEwz1Nm8Y_21407387_1743900141747.copy.detail.831335635827.2959935553"
     },
     {
-      "name" : "宝可梦商店版\nPokemon Go\nv0.353.2\nv8a-64位元\n需用APKMirror Installer安装",
-      "url" : "https://github.com/topsuplove1122/PokemonGO_Apk/releases/download/v0.353.2/com.nianticlabs.pokemongo_0.353.2.apkm"
+      "name" : "Pokemon Go谷歌版\nAPKCOMBO下载\nv8a-64位\n旧版本请下滑寻找\nxapk格式用mt管理器安装",
+      "url" : "https://apkcombo.com/zh/pokemon-go/com.nianticlabs.pokemongo/download/apk"
     },
     {
-      "name" : "宝可梦商店版\nPokemon Go\nv0.355.0\nv8a-64位元\n需用APKMirror Installer安装",
-      "url" : "https://github.com/topsuplove1122/PokemonGO_Apk/releases/download/v0.355.0/com.nianticlabs.pokemongo_0.355.0.apkm"
+      "name" : "Pokemon Go谷歌版\nAPMIRROR下载\nv8a-64位\n选版本后点红色按钮下载\napkm格式用mt管理器安装",
+      "url" : "https://www.apkmirror.com/apk/niantic-inc/pokemon-go/variant-%7B%22arches_slug%22%3A%5B%22arm64-v8a%22%5D%7D/"
     },
     {
-      "name" : "宝可梦三星版\nPokemon Go\nv0.353.2\nv8a-64位",
-      "url" : "https://github.com/topsuplove1122/PokemonGO_Apk/releases/download/v0.353.2/com.nianticlabs.pokemongo.ares_0.353.2.apk"
+      "name" : "Pokemon Go三星版\n安卓13以上不可用\nAPMIRROR下载\nv0.353.2\nv8a-64位\n选版本后点红色按钮下载",
+      "url" : "https://www.apkmirror.com/apk/niantic-inc/pokemon-go-samsung-galaxy-apps-version/variant-%7B%22arches_slug%22%3A%5B%22arm64-v8a%22%5D%7D/"
     },
     {
-      "name" : "宝可梦三星版\nPokemon Go\nv0.355.0\nv8a-64位",
-      "url" : "https://github.com/topsuplove1122/PokemonGO_Apk/releases/download/v0.355.0/pokemongo.ares_0.355.0.apk"
+      "name" : "Pokemon Go下载备用链接\nv8a-64位\n谷歌版选.apkm\n三星版选.apk\napkm格式用mt管理器安装",
+      "url" : "https://github.com/topsuplove1122/PokemonGO_Apk/releases/"
     },
 	  {
-      "name" : "暴力功\nPolygon#\nv0.9.3",
-      "url" : "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.3.apk"
-    },
-	  {
-      "name" : "暴力功\nPolygon#\nv0.9.5",
-      "url" : "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.5.apk"
-    },
-	  {
-      "name" : "暴力功\nPolygon#\nv0.9.3-fix\n修复被自动删除的问题",
-      "url" : "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.3-fix.apk"
-    },
-	  {
-      "name" : "暴力功\n繁化版\nPolygon#\nv0.9.2-b.12",
-      "url" : "https://shiny.wvdesign.tw/file/apk/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29polygonsharp-0.9.2-b.12.apk"
+      "name" : "暴力功下载合集\nPolygon#\nv0.9.3中文版与v0.9.5原版\n",
+      "url" : "https://www.feijipan.com/console/files/208960884?title=polygon&status=1"
     },
 	  {
       "name" : "Aerilate英文原版\nv0.1.4",
@@ -51,34 +39,38 @@
     },
     {
       "name" : "Aerilate中文版\nv0.1.4",
-      "url" : "https://reeky.wvdesign.tw/file/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29aerilate_0.1.4_efe46e.apk"
+      "url" : "https://share.feijipan.com/s/dpDVvLYh"
     },
     {
-      "name" : "传送点百闪\nPokeList\n官方原版",
+      "name" : "PokeList英文原版\n传送点百闪",
       "url" : "https://moonani.com/PokeList/PokeList.apk"
     },
 	  {
-      "name" : "传送点百闪\n中文版\nPokeList\nv1.3.14",
-      "url" : "https://shiny.wvdesign.tw/file/apk/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29PokeList_1.3.14.apk"
+      "name" : "PokeList中文版\n传送点百闪\nPokeList\nv1.3.17",
+      "url" : "https://share.feijipan.com/s/dpDVvLYh"
     },
     {
-      "name" : "自动抓\nPogo Auto Catch\n官网",
-      "url" : "https://pgtools.net/downloads/auto-catch"
+      "name" : "PGTOOLS自动抓\n安装选BETA测试版\n可查看功能介绍",
+      "url" : "https://pgtools.net/"
+    },
+	  {
+      "name" : "Data Hub数据库\n打火箭队团战\n英文原版",
+      "url" : "https://pgtools.net"
+    },
+	  {
+      "name" : "Data Hub数据库\n打火箭队团战\nv2.1.3中文版",
+      "url" : "https://share.feijipan.com/s/dpDVvLYh"
     },
     {
-      "name" : "Pokemod官网\n可查看功能并下载英文原版\n会员7欧/月",
+      "name" : "Pokemod官网\n可查看功能介绍\n安装包英文原版\n会员7欧元/月",
       "url" : "https://pokemod.dev/zh/"
     },
 	  {
-      "name" : "传送点百闪\nPokeList\n官网雷达",
-      "url" : "https://moonani.com/PokeList"
+      "name" : "WeCatch\nv4.4.5\n宝可梦雷达",
+      "url" : "https://github.com/daydreamer1222/WeCatch-Android/releases"
     },
 	  {
-      "name" : "WeCatch\nv4.4.5\n雷达",
-      "url" : "https://shiny.wvdesign.tw/file/apk/wecatch_v4.4.5.apk"
-    },
-	  {
-      "name" : "报宝贝\nPoke Find\nv2.3.13\n雷达",
+      "name" : "Poke Find报宝贝\n\nv2.3.13\n宝可梦雷达",
       "url" : "https://shiny.wvdesign.tw/file/apk/Find_Poke_2.3.13.apk"
     },
   	{
@@ -88,10 +80,6 @@
   	{
       "name" : "Poke Genie\nv8.3.4\n查PVP IV",
       "url" : "https://shiny.wvdesign.tw/file/apk/pokegenie_8.3.4.apk"
-    },
-  	{
-      "name" : "打火箭队\nData Hub\nv2.1.3",
-      "url" : "https://shiny.wvdesign.tw/file/apk/data-hub-2.1.3.apk"
     },
   	{
       "name" : "DeFit\nv0.9.2\n孵蛋app",
@@ -313,5 +301,17 @@
       "name" : "ARCore下载更新",
       "url" : "https://play.google.com/store/apps/details?id=com.google.ar.core&hl=zh-tw"
     }
+	  	  {
+      "name" : "暴力功\nPolygon#\nv0.9.5",
+      "url" : "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.5.apk"
+    },
+	  {
+      "name" : "暴力功\nPolygon#\nv0.9.3-fix\n修复被自动删除的问题",
+      "url" : "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.3-fix.apk"
+    },
+	  {
+      "name" : "暴力功\n繁化版\nPolygon#\nv0.9.2-b.12",
+      "url" : "https://shiny.wvdesign.tw/file/apk/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29polygonsharp-0.9.2-b.12.apk"
+    },
 	]
 }
