@@ -3,7 +3,7 @@
      "version" : "1.0.1",
      "url" : ""
   },
-  "memo" : "维护：Collterpy\n更新时间：2025年4月6日\n暴力功适配go版本:0.353.2/0.355.0\nAerilate适配版本:0.353.2/0.355.0\nPGTools Beta(测试版)适配go版本:0.355.0\nPokemod:0.353.2/0.355.0\nShungo:0.353.2/0.355.0",
+  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年4月6日",
   "data" : [
     {
       "name" : "安卓远程刷机\n闲鱼用户collterpy",
@@ -14,15 +14,15 @@
       "url" : "https://h5.m.goofish.com/item?forceFlush=1&id=831335635827&ut_sk=1.ZKOkhLIl66oDACvEEwz1Nm8Y_21407387_1743900141747.copy.detail.831335635827.2959935553"
     },
     {
-      "name" : "宝可梦谷歌版\nAPKCOMBO下载\nv8a-64位\n旧版本请下滑寻找\nxapk格式用mt管理器安装",
+      "name" : "宝可梦谷歌商店版\nAPKCOMBO下载\nv8a-64位\n旧版本请下滑寻找\n用mt管理器安装",
       "url" : "https://apkcombo.com/zh/pokemon-go/com.nianticlabs.pokemongo/download/apk"
     },
     {
-      "name" : "宝可梦谷歌版\nAPMIRROR下载\nv8a-64位\n选版本后点红色按钮下载\napkm格式用mt管理器安装",
+      "name" : "宝可梦谷歌商店版\nAPMIRROR下载\nv8a-64位\n选版本，点红色下载按钮\n用mt管理器安装",
       "url" : "https://www.apkmirror.com/apk/niantic-inc/pokemon-go/variant-%7B%22arches_slug%22%3A%5B%22arm64-v8a%22%5D%7D/"
     },
     {
-      "name" : "宝可梦三星版\n安卓13以上不可用\nAPMIRROR下载\nv0.353.2\nv8a-64位\n选版本后点红色按钮下载",
+      "name" : "宝可梦三星版\n安卓13以上不可用\nAPMIRROR下载\nv0.353.2\nv8a-64位\n选版本，点红色下载按钮",
       "url" : "https://www.apkmirror.com/apk/niantic-inc/pokemon-go-samsung-galaxy-apps-version/variant-%7B%22arches_slug%22%3A%5B%22arm64-v8a%22%5D%7D/"
     },
     {
@@ -41,253 +41,193 @@
       "name" : "PokeList英文原版\n传送点百闪",
       "url" : "https://moonani.com/PokeList/PokeList.apk"
     },
-	  {
+    {
       "name" : "PokeList中文版\n传送点百闪\nv1.3.17",
       "url" : "https://share.feijipan.com/s/dpDVvLYh"
     },
-	  {
+    {
+      "name" : "PokeList\n官网数据库",
+      "url" : "https://moonani.com/PokeList"
+    },
+    {
+      "name" : "PGTOOLS官网\n安装选BETA测试版\n可查看功能介绍",
+      "url" : "https://pgtools.net/"
+    },
+    {
       "name" : "Data Hub数据库\n打火箭队团战\n英文原版",
       "url" : "https://pgtools.net"
     },
-	  {
+    {
       "name" : "Data Hub数据库\n打火箭队团战\nv2.1.3中文版",
       "url" : "https://share.feijipan.com/s/dpDVvLYh"
-    },
-	  {
-      "name" : "PGTOOLS自动抓\n安装选BETA测试版\n可查看功能介绍",
-      "url" : "https://pgtools.net/"
     },
     {
       "name" : "Pokemod官网\n可查看功能介绍\n安装包英文原版\n会员7欧元/月",
       "url" : "https://pokemod.dev/zh/"
     },
-	  {
-      "name" : "WeCatch\nv4.4.5\n宝可梦雷达",
+    {
+      "name" : "shungo官网\n打火箭队团战\nv2.1.3中文版",
+      "url" : "https://shungo.app"
+    },
+    {
+      "name" : "Shungo APP下载",
+      "url" : "https://shungo.app/shungo.apk"
+    },
+    {
+      "name" : "WeCatch下载\nv4.4.5\n宝可梦雷达",
       "url" : "https://github.com/daydreamer1222/WeCatch-Android/releases"
     },
-	  {
-      "name" : "Poke Find报宝贝\n谷歌商店\n宝可梦雷达",
+    {
+      "name" : "Poke Find报宝贝\n谷歌商店下载\n宝可梦雷达",
       "url" : "https://play.google.com/store/apps/details?id=com.pkinfo.screencapture"
     },
-	  {
+    {
+      "name" : "Surfing模块\n快捷方式apk\nWeb面板",
+      "url" : "https://share.feijipan.com/s/qlFoMOjo"
+    },
+    {
       "name" : "暴力功下载合集\nPolygon#\nv0.9.3中文版与v0.9.5原版",
       "url" : "https://www.feijipan.com/console/files/208960884?title=polygon&status=1"
     },
-  	{
-      "name" : "PoGoQuest雷达\n可查雾区与雪地坐标",
+    {
+      "name" : "PoGoQuest网址\n可查雾区与雪地坐标",
       "url" : "https://pogoquest.com/"
     },
-  	{
-      "name" : "Poke Genie\n谷歌商店下载\n查PVP IV",
+    {
+      "name" : "Coordsgo网址\n获取坐标组",
+      "url" : "https://coordsgo.com/"
+    },
+    {
+      "name" : "Poke Genie\n谷歌商店下载\n查PVP IV数据",
       "url" : "https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard"
     },
-  	{
+    {
       "name" : "DeFit\n谷歌商店下载\n孵蛋app",
       "url" : "https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard"
     },
-	  {
+    {
       "name" : "Pokewalk\n谷歌商店下载\n孵蛋app",
       "url" : "https://play.google.com/store/apps/details?id=com.binarygraft.pokewalk"
     },
-  	{
+    {
       "name" : "Pokemon HOME\n谷歌商店下载\n换黑盒子",
       "url" : "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonhome"
     },
-  	{
-      "name" : "Velocity\n谷歌商店下载\ndiscord点击传送",
+    {
+      "name" : "Velocity\n谷歌商店下载\nDiscord点击传送",
       "url" : "https://storage.pokemod.dev/l/Velocity"
     },
     {
       "name" : "Ice Box冰箱\n谷歌商店下载\n冻结APP",
       "url" : "https://play.google.com/store/apps/details?id=com.catchingnow.icebox"
     },
-  	{
-      "name" : "远端协助APP\nAny Desk\nv7.0.0",
-      "url" : "https://shiny.wvdesign.tw/file/apk/AnyDesk_7.0.0.apk"
-    },
-  	{
-      "name" : "远端协助外挂\nAnyDeskcontrolplugin(ad1)\nv1.0.18",
-      "url" : "https://shiny.wvdesign.tw/file/apk/AnyDeskcontrolplugin(ad1)_1.0.18.apk"
-    },
-  	{
-      "name" : "远端协助外挂\nRustdesk\nv1.2.3-2",
-      "url" : "https://shiny.wvdesign.tw/file/apk/rustdesk-1.2.3-2.apk"
-    },
-  	{
+    {
       "name" : "BetterOpenWith\n谷歌商店下载\n选择打开方式",
       "url" : "https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith"
     },
-  	{
+    {
       "name" : "地图趴趴走\n谷歌商店下载\n摇杆",
       "url" : "https://play.google.com/store/apps/details?id=com.lovestyle.mapwalker.android"
     },
-  	{
+    {
       "name" : "JOYSTICK皮肤合集\n电脑模式打开蓝奏云\n密码666",
       "url" : "https://wwsp.lanzn.com/b00jdqjhzg"
     },
-  	{
+    {
       "name" : "PoGo+LE\n谷歌商店下载\n自动按蓝牙确认手环",
       "url" : "https://play.google.com/store/apps/details?id=be.mygod.pogoplusplus"
     },
-  	{
+    {
       "name" : "炼妖壶\n谷歌商店下载\n开启工作分区分身go",
       "url" : "https://play.google.com/store/apps/details?id=com.oasisfeng.island"
     },
-  	{
-      "name" : "自动精灵\nv2.27.2",
-      "url" : "https://shiny.wvdesign.tw/file/apk/zdjl_v2.27.2.apk"
-    },
-	{
-      "name" : "自动点击器\n去广告\nv2.1.4",
-      "url" : "https://shiny.wvdesign.tw/file/apk/Auto.Clicker.v.2.1.4_NoAD.apk"
-    },
-  	{
-      "name" : "屏幕感知器\nv2.2.6",
-      "url" : "https://shiny.wvdesign.tw/file/apk/ProximityService_2.2.6.apk"
-    },
-  	{
+    {
       "name" : "三星应用商店\n点红色下载按钮\nv4.5.90.7",
       "url" : "https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-apps/samsung-galaxy-store-galaxy-apps-4-5-90-7-release/samsung-galaxy-store-galaxy-apps-4-5-90-7-android-apk-download/"
     },
-  	{
+    {
       "name" : "pushbullet\n谷歌商店下载\n跨设备传讯息",
       "url" : "https://play.google.com/store/apps/details?id=com.pushbullet.android&referrer=utm_source%3Dpushbullet.com"
     },
-  	{
-      "name" : "surfing模块\n快捷方式apk\nweb面板",
-      "url" : "https://share.feijipan.com/s/qlFoMOjo"
-    },
-	{
+    {
       "name" : "mt管理器\n官网下载",
       "url" : "https://mt2.cn/"
     },
-        {
-      "name" : "smartautoclicker\n自动点击\n中文版",
-      "url" : "https://shiny.wvdesign.tw/file/apk/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29smartautoclicker.apk"
+    {
+      "name" : "自动点击器1\n谷歌商店下载\n中文版",
+      "url" : "https://play.google.com/store/apps/details?id=com.rise.automatic.autoclicker.clicker"
     },
-	{
-      "name" : "Extinguish\n息屏运行\nv0.2.6\n中文版",
-      "url" : "https://shiny.wvdesign.tw/file/modules/%E6%81%AF%E5%B1%8F%E9%81%8B%E8%A1%8C/Extinguish_0.2.6.apk"
+    {
+      "name" : "自动点击器2\n谷歌商店下载\n支持安卓15",
+      "url" : "https://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker"
     },
-        {
-      "name" : "LSPosed_mod\nv1.9.3",
-      "url" : "https://shiny.wvdesign.tw/file/modules/magisk/LSPosed-v1.9.3_mod-7244-zygisk-release.zip"
-    },
-        {
-      "name" : "去广告模组\nad_blocker\nMagisk模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/magisk/ad_blocker.zip"
-    },
-        {
-      "name" : "systemless-hosts\nV17.0\nMagisk模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/magisk/systemless-hosts_v17.0.zip"
-    },
-        {
-      "name" : "Line去广告模组\nv1.1\nMagisk模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/magisk/Auto_disable_line_AD.zip"
-    },
-  	{
-      "name" : "MIUI挡更新模组\nMagisk模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/magisk/MIUI-99.99.99.zip"
-    },
-        {
-      "name" : "修复safetynet模组\nPlayIntegrityFix\nv18.8\n三星修复\nzygisk\nMagisk模组",
-      "url" : "http://shiny.wvdesign.tw/file/modules/magisk/PlayIntegrityFix_v18.8_smasung.zip"
-    },
-  	{
+    {
       "name" : "修复AR模组\nDeviceFeaturesEnabler\nv0.4\nMagisk模组",
-      "url" : "http://shiny.wvdesign.tw/file/modules/magisk/DeviceFeaturesEnabler.zip"
-    },
-	{
-      "name" : "修复ART模组\nART-fix\nMagisk模组",
-      "url" : "https://cindy.wvdesign.tw/file/moudle/ART_fix.zip"
-    },
-	  {
-      "name" : "sui\nv13.5.1\nriru\nMagisk模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/%E6%81%AF%E5%B1%8F%E9%81%8B%E8%A1%8C/sui-riru-v13.5.1-release.zip"
-    },
-  	{
-      "name" : "sui\nv13.5.1\nzygisk\nMagisk模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/%E6%81%AF%E5%B1%8F%E9%81%8B%E8%A1%8C/sui-zygisk-v13.5.1-release.zip"
+      "url" : "https://github.com/collterpy/Device-Features-Enabler-Magisk-Module/releases/download/untagged-683e3cedff8b00a44448/DeviceFeaturesEnabler-MagiskModule-20240824012430.zip"
     },
     {
-      "name" : "Fix_Pokemon\nMagisk模组",
-      "url" : "https://reeky.wvdesign.tw/file/magisk/modules/Fix_Pokemon.zip"
-    },
-  	{
-      "name" : "Mock Hider\nv1.9\nLSPosed模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/LSPosed/MockHider_v1.9.apk"
+      "name" : "lsp谷歌翻译插件\n勾选POKEMOD\n勾选DISCORD\nv1.4.12",
+      "url" : "https://github.com/collterpy/Pogo_Manager/blob/main/lsp%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6%EF%BC%88lspoesd%E5%8F%AF%E5%8B%BE%E9%80%89discord%E4%B8%8Epokemod)-1.4.12.apk"
     },
     {
-      "name" : "HideMockLocation\nv2.1.4\nLSPosed模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/LSPosed/HideMockLocation_v2.1.4.apk"
-    },
-  	{
-      "name" : "自由降版本\nXDowngrader\nv1.1\nLSPosed模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/LSPosed/xdowngrader_v1.1.apk"
-    },
-	  {
-      "name" : "阻挡自动更新\nupdatelocker\nv1.2.5\nLSPosed模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/LSPosed/updatelocker_v1.2.5.apk"
-    },
-	  {
-      "name" : "非残\nIAmNotDisabled\nv6.6\nLSPosed模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/LSPosed/IAmNotDisabled-6.6-hook.apk"
-    },
-	  {
-      "name" : "保后台\nAppRetentionHook\nv4.2.5\nLSPosed模组",
-      "url" : "https://shiny.wvdesign.tw/file/modules/LSPosed/AppRetention4.2.5.apk"
-    },
-	  {
       "name" : "直线距离计算机",
-      "url" : "http://yeeee.ddns.net/"
+      "url" : "http://yeeee.ddns.net"
     },
-	  {
-      "name" : "备用",
-      "url" : "https://www.google.com"
+    {
+      "name" : "Discord邀请链接\nPokemod",
+      "url" : "https://discord.gg/vA2pvNZKSn"
     },
-	  {
-      "name" : "备用2",
-      "url" : "https://www.google.com"
+    {
+      "name" : "Discord邀请链接\nAerilate\n有中文",
+      "url" : "https://discord.gg/KnVYh9tj53"
     },
-	  {
-      "name" : "备用3",
-      "url" : "https://www.google.com"
+    {
+      "name" : "Discord邀请链接\nPGtools\n有中文",
+      "url" : "https://discord.gg/pgtools"
     },
-	  {
-      "name" : "备用4",
-      "url" : "https://www.google.com"
+    {
+      "name" : "Discord邀请链接\nShungo",
+      "url" : "https://discord.gg/shungo"
     },
-	  {
-      "name" : "PGTools设定档\nfor赞助版\n来源官网",
-      "url" : "http://tinyurl.com/mufhzy2h"
+    {
+      "name" : "Discord邀请链接\nPolygon\n仅会员",
+      "url" : "https://discord.gg/pc6gYXJ2vG"
     },
-	  {
+    {
+      "name" : "Discord邀请链接\nFlymego\n仅会员",
+      "url" : "https://discord.gg/tMkDM56CzC"
+    },
+    {
+      "name" : "Discord邀请链接\nPGS root",
+      "url" : "https://discord.com/invite/tH43Y3z3Qk"
+    },
+    {
+      "name" : "Discord邀请链接\nPokedex100",
+      "url" : "https://discord.gg/pokedex100"
+    },
+    {
+      "name" : "Discord邀请链接\nPokeXperience",
+      "url" : "https://discord.gg/kNQF3eXUe2"
+    },
+    {
+      "name" : "Discord邀请链接\nPokeHubCoord",
+      "url" : "https://discord.gg/6NEF9GM"
+    },
+    {
       "name" : "Google服务下载更新",
-      "url" : "https://play.google.com/store/apps/details/Google_Play_services?id=com.google.android.gms&hl=en"
+      "url" : "https://play.google.com/store/apps/details/Google_Play_services?id=com.google.android.gms"
     },
-	  {
+    {
       "name" : "apkm安装器\n谷歌商店下载",
       "url" : "https://play.google.com/store/apps/details?id=com.apkmirror.helper.prod"
     },
-	  {
+    {
       "name" : "WebView下载更新",
-      "url" : "https://play.google.com/store/apps/details?id=com.google.android.webview&hl=zh_TW&gl=US"
+      "url" : "https://play.google.com/store/apps/details?id=com.google.android.webview"
     },
-	  {
+    {
       "name" : "ARCore下载更新",
-      "url" : "https://play.google.com/store/apps/details?id=com.google.ar.core&hl=zh-tw"
-    },
-	  {
-      "name" : "暴力功\nPolygon#\nv0.9.5",
-      "url" : "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.5.apk"
-    },
-	  {
-      "name" : "暴力功\nPolygon#\nv0.9.3-fix\n修复被自动删除的问题",
-      "url" : "https://shiny.wvdesign.tw/file/apk/com.evermorelabs.polygonsharp-0.9.3-fix.apk"
-    },
-	  {
-      "name" : "暴力功\n繁化版\nPolygon#\nv0.9.2-b.12",
-      "url" : "https://shiny.wvdesign.tw/file/apk/%E7%B9%81%E5%8C%96/%28%E7%B9%81%E5%8C%96%E7%89%88%29polygonsharp-0.9.2-b.12.apk"
+      "url" : "https://play.google.com/store/apps/details?id=com.google.ar.core"
     },
 	]
 }
