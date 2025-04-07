@@ -95,7 +95,11 @@
     },
     {
       "name" : "PoGoQuest网址\n可查雾区与雪地坐标",
-      "url" : "https://pogoquest.com/"
+      "url" : "https://pogoquest.com"
+    },
+    {
+      "name" : "PoGoHub网址\n数据库",
+      "url" : "https://db.pokemongohub.net"
     },
     {
       "name" : "Coordsgo网址\n获取坐标组",
@@ -159,7 +163,7 @@
     },
     {
       "name" : "mt管理器\n官网下载",
-      "url" : "https://mt2.cn/"
+      "url" : "https://mt2.cn"
     },
     {
       "name" : "自动点击器1\n谷歌商店下载\n中文版",
