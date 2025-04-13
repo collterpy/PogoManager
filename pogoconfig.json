@@ -1,0 +1,269 @@
+{
+  "update": {
+    "version": "1.0.1",
+    "url": ""
+  },
+  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年4月7日",
+  "data" : [
+    {
+      "name" : "安卓远程刷机\n闲鱼用户collterpy\n关注我主页看帖",
+      "url" : "https://h5.m.goofish.com/item?forceFlush=1&id=756561950583&ut_sk=1.ZKOkhLIl66oDACvEEwz1Nm8Y_21407387_1743900141747.copy.detail.756561950583.2959935553"
+    },
+    {
+      "name" : "PGTools会员功能帮拍\n8元/代币\n要多少代币拍多少件",
+      "url" : "https://h5.m.goofish.com/item?forceFlush=1&id=831335635827&ut_sk=1.ZKOkhLIl66oDACvEEwz1Nm8Y_21407387_1743900141747.copy.detail.831335635827.2959935553"
+    },
+    {
+      "name" : "宝可梦谷歌商店版\nAPKCOMBO下载\nv8a-64位\n旧版本请下滑寻找\n用mt管理器安装",
+      "url" : "https://apkcombo.com/zh/pokemon-go/com.nianticlabs.pokemongo/download/apk"
+    },
+    {
+      "name" : "宝可梦谷歌商店版\nAPMIRROR下载\nv8a-64位\n选版本，点红色下载按钮\n用mt管理器安装",
+      "url" : "https://www.apkmirror.com/apk/niantic-inc/pokemon-go/variant-%7B%22arches_slug%22%3A%5B%22arm64-v8a%22%5D%7D/"
+    },
+    {
+      "name" : "宝可梦三星版\n安卓13以上不可用\nAPMIRROR下载\nv8a-64位\n选版本，点红色下载按钮",
+      "url" : "https://www.apkmirror.com/apk/niantic-inc/pokemon-go-samsung-galaxy-apps-version/variant-%7B%22arches_slug%22%3A%5B%22arm64-v8a%22%5D%7D/"
+    },
+    {
+      "name" : "宝可梦下载备用链接\nv8a-64位\n谷歌版选.apkm\n三星版选.apk\napkm格式用mt管理器安装",
+      "url" : "https://github.com/topsuplove1122/PokemonGO_Apk/releases/"
+    },
+    {
+      "name" : "Aerilate英文原版\nv0.1.4",
+      "url" : "https://dl.aerilate.evermorelabs.io/apk/com.evermorelabs.aerilate-0.1.4.apk"
+    },
+    {
+      "name" : "Aerilate中文版\nv0.1.4\n小米双开中文版",
+      "url" : "https://share.feijipan.com/s/dpDVvLYh"
+    },
+    {
+      "name" : "PokeList英文原版\n传送点百闪",
+      "url" : "https://moonani.com/PokeList/PokeList.apk"
+    },
+    {
+      "name" : "PokeList中文版\n传送点百闪\nv1.3.17",
+      "url" : "https://share.feijipan.com/s/dpDVvLYh"
+    },
+    {
+      "name" : "PokeList\n官网数据库",
+      "url" : "https://moonani.com/PokeList"
+    },
+    {
+      "name" : "PGTOOLS官网\n安装选BETA测试版\n可查看功能介绍",
+      "url" : "https://pgtools.net/"
+    },
+    {
+      "name" : "Data Hub数据库\n打火箭队团战\n英文原版",
+      "url" : "https://pgtools.net"
+    },
+    {
+      "name" : "Data Hub数据库\n打火箭队团战\nv2.1.3中文版",
+      "url" : "https://share.feijipan.com/s/dpDVvLYh"
+    },
+    {
+      "name" : "Pokemod官网\n可查看功能介绍\n安装包英文原版\n会员7欧元/月",
+      "url" : "https://pokemod.dev/zh/"
+    },
+    {
+      "name" : "shungo官网\n打火箭队团战\nv2.1.3中文版",
+      "url" : "https://shungo.app"
+    },
+    {
+      "name" : "Shungo APP下载\n会员14欧元/月",
+      "url" : "https://shungo.app/shungo.apk"
+    },
+    {
+      "name" : "WeCatch下载\nv4.4.5\n宝可梦雷达",
+      "url" : "https://github.com/daydreamer1222/WeCatch-Android/releases"
+    },
+    {
+      "name" : "Poke Find报宝贝\n谷歌商店下载\n宝可梦雷达",
+      "url" : "https://play.google.com/store/apps/details?id=com.pkinfo.screencapture"
+    },
+    {
+      "name" : "Surfing模块\n快捷方式apk\nWeb面板apk\n科学双开go",
+      "url" : "https://share.feijipan.com/s/qlFoMOjo"
+    },
+    {
+      "name" : "Flymego\n中文版\nv0.3.0",
+      "url" : "https://share.feijipan.com/s/qlFoMOjo"
+    },
+    {
+      "name" : "暴力功下载合集\nPolygon#\nv0.9.3中文版与v0.9.5原版",
+      "url" : "https://www.feijipan.com/console/files/208960884?title=polygon&status=1"
+    },
+    {
+      "name" : "PoGoQuest网址\n可查雾区与雪地坐标",
+      "url" : "https://pogoquest.com"
+    },
+    {
+      "name" : "PoGoHub网址\n数据库",
+      "url" : "https://db.pokemongohub.net"
+    },
+    {
+      "name" : "Coordsgo网址\n获取坐标组",
+      "url" : "https://coordsgo.com/"
+    },
+    {
+      "name" : "Poke Genie\n谷歌商店下载\n查PVP IV数据",
+      "url" : "https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard"
+    },
+    {
+      "name" : "MIUI隐藏设置\n谷歌商店下载",
+      "url" : "https://play.google.com/store/apps/details?id=com.ceyhan.sets"
+    },
+    {
+      "name" : "DeFit\n谷歌商店下载\n孵蛋app",
+      "url" : "https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard"
+    },
+    {
+      "name" : "Pokewalk\n谷歌商店下载\n孵蛋app",
+      "url" : "https://play.google.com/store/apps/details?id=com.binarygraft.pokewalk"
+    },
+    {
+      "name" : "Pokemon HOME\n谷歌商店下载\n换黑盒子",
+      "url" : "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonhome"
+    },
+    {
+      "name" : "Velocity\n谷歌商店下载\nDiscord点击传送",
+      "url" : "https://storage.pokemod.dev/l/Velocity"
+    },
+    {
+      "name" : "Ice Box冰箱\n谷歌商店下载\n冻结APP",
+      "url" : "https://play.google.com/store/apps/details?id=com.catchingnow.icebox"
+    },
+    {
+      "name" : "BetterOpenWith\n谷歌商店下载\n选择打开方式",
+      "url" : "https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith"
+    },
+    {
+      "name" : "地图趴趴走\n谷歌商店下载\n摇杆",
+      "url" : "https://play.google.com/store/apps/details?id=com.lovestyle.mapwalker.android"
+    },
+    {
+      "name" : "JOYSTICK皮肤合集\n电脑模式打开蓝奏云\n密码666",
+      "url" : "https://wwsp.lanzn.com/b00jdqjhzg"
+    },
+    {
+      "name" : "PoGo+LE\n谷歌商店下载\n自动按蓝牙确认手环",
+      "url" : "https://play.google.com/store/apps/details?id=be.mygod.pogoplusplus"
+    },
+    {
+      "name" : "炼妖壶\n谷歌商店下载\n开启工作分区分身go",
+      "url" : "https://play.google.com/store/apps/details?id=com.oasisfeng.island"
+    },
+    {
+      "name" : "三星应用商店\n点红色下载按钮\nv4.5.90.7",
+      "url" : "https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-apps/samsung-galaxy-store-galaxy-apps-4-5-90-7-release/samsung-galaxy-store-galaxy-apps-4-5-90-7-android-apk-download/"
+    },
+    {
+      "name" : "pushbullet\n谷歌商店下载\n跨设备传讯息",
+      "url" : "https://play.google.com/store/apps/details?id=com.pushbullet.android&referrer=utm_source%3Dpushbullet.com"
+    },
+    {
+      "name" : "mt管理器\n官网下载",
+      "url" : "https://mt2.cn"
+    },
+    {
+      "name" : "自动点击器1\n谷歌商店下载\n中文版",
+      "url" : "https://play.google.com/store/apps/details?id=com.rise.automatic.autoclicker.clicker"
+    },
+    {
+      "name" : "自动点击器2\n谷歌商店下载\n支持安卓15",
+      "url" : "https://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker"
+    },
+    {
+      "name" : "修复AR模组\nDeviceFeaturesEnabler\nv0.4\nMagisk模组",
+      "url" : "https://github.com/collterpy/Device-Features-Enabler-Magisk-Module/releases/download/untagged-683e3cedff8b00a44448/DeviceFeaturesEnabler-MagiskModule-20240824012430.zip"
+    },
+    {
+      "name" : "lsp谷歌翻译插件\n勾选POKEMOD\n勾选DISCORD\nv1.4.12",
+      "url" : "https://github.com/collterpy/Pogo_Manager/blob/main/lsp%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6%EF%BC%88lspoesd%E5%8F%AF%E5%8B%BE%E9%80%89discord%E4%B8%8Epokemod)-1.4.12.apk"
+    },
+    {
+      "name" : "直线距离计算机",
+      "url" : "http://yeeee.ddns.net"
+    },
+    {
+      "name" : "Discord邀请链接\nPokemod",
+      "url" : "https://discord.gg/vA2pvNZKSn"
+    },
+    {
+      "name" : "Discord邀请链接\nAerilate\n有中文",
+      "url" : "https://discord.gg/KnVYh9tj53"
+    },
+    {
+      "name" : "Discord邀请链接\nPGtools\n有中文",
+      "url" : "https://discord.gg/pgtools"
+    },
+    {
+      "name" : "Discord邀请链接\nShungo",
+      "url" : "https://discord.gg/shungo"
+    },
+    {
+      "name" : "Discord邀请链接\nPolygon\n仅会员",
+      "url" : "https://discord.gg/pc6gYXJ2vG"
+    },
+    {
+      "name" : "Discord邀请链接\nFlymego\n仅会员",
+      "url" : "https://discord.gg/tMkDM56CzC"
+    },
+    {
+      "name" : "Discord邀请链接\nPGS root",
+      "url" : "https://discord.com/invite/tH43Y3z3Qk"
+    },
+    {
+      "name" : "Discord邀请链接\nPokedex100",
+      "url" : "https://discord.gg/pokedex100"
+    },
+    {
+      "name" : "Discord邀请链接\nPokeXperience",
+      "url" : "https://discord.gg/kNQF3eXUe2"
+    },
+    {
+      "name" : "Discord邀请链接\nPokeHubCoord",
+      "url" : "https://discord.gg/6NEF9GM"
+    },
+    {
+      "name" : "Google服务\n下载更新",
+      "url" : "https://play.google.com/store/apps/details/Google_Play_services?id=com.google.android.gms"
+    },
+    {
+      "name" : "discord组织\n谷歌商店下载",
+      "url" : "https://play.google.com/store/apps/details?id=com.discord"
+    },
+    {
+      "name" : "WebView下载更新",
+      "url" : "https://play.google.com/store/apps/details?id=com.google.android.webview"
+    },
+    {
+      "name" : "ARCore下载更新",
+      "url" : "https://play.google.com/store/apps/details?id=com.google.ar.core"
+    },
+    {
+      "name" : "clash meta\n蓝奏云下载\n电脑模式打开\n密码666",
+      "url" : "https://wwsp.lanzn.com/iXgt12g28a2b"
+    },
+    {
+      "name" : "加速机场推荐\n鸡头xftld\n主力机场",
+      "url" : "https://xftld.org/#/register?code=jrlDDSLt"
+    },
+    {
+      "name" : "加速机场推荐\n极速机场\n1年12元，每月200G",
+      "url" : "https://xn--mes358acgm99l.com/#/register?code=0Ybv8YdN"
+    },
+    {
+      "name" : "加速机场推荐\n赔钱机场\n3元/500G/月",
+      "url" : "https://xn--mes358aby2apfg.site/#/register?code=mBM6Qjx0"
+    },
+    {
+      "name" : "加速机场推荐\n白嫖机场\n包年19元多",
+      "url" : "https://yes.xn--mesv7f5toqlp.biz/register?code=LhRte1VP"
+    },
+    {
+      "name" : "加速机场推荐\n一分机场\n1000G不限时19元",
+      "url" : "https://xn--4gqx1hgtfdmt.com/#/register?code=OouO3rgW"
+    }
+	]
+}
