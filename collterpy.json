@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "url": ""
   },
-  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年4月8日\n国内使用建议开启加速器再打开本应用",
+  "memo" : "维护：闲鱼用户Collterpy\n更新时间：2025年4月20日\n国内使用建议开启加速器再打开本应用",
   "data" : [
     {
       "name" : "安卓远程刷机\n闲鱼用户collterpy\n关注我主页看帖",
@@ -12,10 +12,6 @@
     {
       "name" : "PGTools会员功能帮拍\n8元/代币\n要多少代币拍多少件",
       "url" : "https://h5.m.goofish.com/item?forceFlush=1&id=831335635827&ut_sk=1.ZKOkhLIl66oDACvEEwz1Nm8Y_21407387_1743900141747.copy.detail.831335635827.2959935553"
-    },
-    {
-      "name" : "宝可梦谷歌商店版\nAPKCOMBO下载\nv8a-64位\n旧版本请下滑寻找\n用mt管理器安装",
-      "url" : "https://apkcombo.com/zh/pokemon-go/com.nianticlabs.pokemongo/download/apk"
     },
     {
       "name" : "宝可梦谷歌商店版\nAPMIRROR下载\nv8a-64位\n选版本，点红色下载按钮\n用mt管理器安装",
@@ -28,6 +24,10 @@
     {
       "name" : "宝可梦下载备用链接\nv8a-64位\n谷歌版选.apkm\n三星版选.apk\napkm格式用mt管理器安装",
       "url" : "https://github.com/topsuplove1122/PokemonGO_Apk/releases/"
+    },
+    {
+      "name" : "宝可梦谷歌商店版\nAPKCOMBO下载\nv8a-64位\n旧版本请下滑寻找\n用mt管理器安装",
+      "url" : "https://apkcombo.com/zh/pokemon-go/com.nianticlabs.pokemongo/download/apk"
     },
     {
       "name" : "Aerilate英文原版\nv0.1.4",
@@ -66,7 +66,7 @@
       "url" : "https://pokemod.dev/zh/"
     },
     {
-      "name" : "shungo官网\n打火箭队团战\nv2.1.3中文版",
+      "name" : "shungo官网\n打火箭队团战",
       "url" : "https://shungo.app"
     },
     {
@@ -86,12 +86,20 @@
       "url" : "https://share.feijipan.com/s/qlFoMOjo"
     },
     {
-      "name" : "Flymego\n中文版\nv0.3.0",
+      "name" : "Flymego\n中文版\nv0.3.3",
       "url" : "https://share.feijipan.com/s/qlFoMOjo"
     },
     {
       "name" : "暴力功下载合集\nPolygon#\nv0.9.3中文版与v0.9.5原版",
       "url" : "https://www.feijipan.com/console/files/208960884?title=polygon&status=1"
+    },
+    {
+      "name" : "Velocity\n谷歌商店下载\nDiscord点击传送",
+      "url" : "https://storage.pokemod.dev/l/Velocity"
+    },
+    {
+      "name" : "JOYSTICK皮肤合集\n电脑模式打开蓝奏云\n密码666",
+      "url" : "https://wwsp.lanzn.com/b00jdqjhzg"
     },
     {
       "name" : "PoGoQuest网址\n可查雾区与雪地坐标",
@@ -126,10 +134,6 @@
       "url" : "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonhome"
     },
     {
-      "name" : "Velocity\n谷歌商店下载\nDiscord点击传送",
-      "url" : "https://storage.pokemod.dev/l/Velocity"
-    },
-    {
       "name" : "Ice Box冰箱\n谷歌商店下载\n冻结APP",
       "url" : "https://play.google.com/store/apps/details?id=com.catchingnow.icebox"
     },
@@ -140,10 +144,6 @@
     {
       "name" : "地图趴趴走\n谷歌商店下载\n摇杆",
       "url" : "https://play.google.com/store/apps/details?id=com.lovestyle.mapwalker.android"
-    },
-    {
-      "name" : "JOYSTICK皮肤合集\n电脑模式打开蓝奏云\n密码666",
-      "url" : "https://wwsp.lanzn.com/b00jdqjhzg"
     },
     {
       "name" : "PoGo+LE\n谷歌商店下载\n自动按蓝牙确认手环",
@@ -172,6 +172,22 @@
     {
       "name" : "自动点击器2\n谷歌商店下载\n支持安卓15",
       "url" : "https://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker"
+    },
+    {
+      "name" : "Google服务\n下载更新",
+      "url" : "https://play.google.com/store/apps/details/Google_Play_services?id=com.google.android.gms"
+    },
+    {
+      "name" : "discord组织\n谷歌商店下载",
+      "url" : "https://play.google.com/store/apps/details?id=com.discord"
+    },
+    {
+      "name" : "WebView下载更新",
+      "url" : "https://play.google.com/store/apps/details?id=com.google.android.webview"
+    },
+    {
+      "name" : "ARCore下载更新",
+      "url" : "https://play.google.com/store/apps/details?id=com.google.ar.core"
     },
     {
       "name" : "修复AR模组\nDeviceFeaturesEnabler\nv0.4\nMagisk模组",
@@ -226,43 +242,27 @@
       "url" : "https://discord.gg/6NEF9GM"
     },
     {
-      "name" : "Google服务\n下载更新",
-      "url" : "https://play.google.com/store/apps/details/Google_Play_services?id=com.google.android.gms"
-    },
-    {
-      "name" : "discord组织\n谷歌商店下载",
-      "url" : "https://play.google.com/store/apps/details?id=com.discord"
-    },
-    {
-      "name" : "WebView下载更新",
-      "url" : "https://play.google.com/store/apps/details?id=com.google.android.webview"
-    },
-    {
-      "name" : "ARCore下载更新",
-      "url" : "https://play.google.com/store/apps/details?id=com.google.ar.core"
-    },
-    {
-      "name" : "clash meta\n蓝奏云下载\n电脑模式打开\n密码666",
+      "name" : "clash meta\n蓝奏云下载\n浏览器选电脑模式\n密码666",
       "url" : "https://wwsp.lanzn.com/iXgt12g28a2b"
     },
     {
-      "name" : "加速机场推荐\n鸡头xftld\n主力机场",
+      "name" : "加速机场推荐1\n鸡头xftld\n主力机场",
       "url" : "https://xftld.org/#/register?code=jrlDDSLt"
     },
     {
-      "name" : "加速机场推荐\n极速机场\n1年12元，每月200G",
+      "name" : "加速机场推荐2\n极速机场\n1年12元，每月200G",
       "url" : "https://xn--mes358acgm99l.com/#/register?code=0Ybv8YdN"
     },
     {
-      "name" : "加速机场推荐\n赔钱机场\n3元/500G/月",
+      "name" : "加速机场推荐3\n赔钱机场\n3元/500G/月",
       "url" : "https://xn--mes358aby2apfg.site/#/register?code=mBM6Qjx0"
     },
     {
-      "name" : "加速机场推荐\n白嫖机场\n包年19元多",
+      "name" : "加速机场推荐4\n白嫖机场\n包年19元多",
       "url" : "https://yes.xn--mesv7f5toqlp.biz/register?code=LhRte1VP"
     },
     {
-      "name" : "加速机场推荐\n一分机场\n1000G不限时19元",
+      "name" : "加速机场推荐5\n一分机场\n1000G不限时19元",
       "url" : "https://xn--4gqx1hgtfdmt.com/#/register?code=OouO3rgW"
     }
   ]
