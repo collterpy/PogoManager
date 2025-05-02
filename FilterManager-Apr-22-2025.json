@@ -1,0 +1,6129 @@
+{
+  "encounterFilters": {
+    "0778779f-e5fe-4d28-96a3-39829851d7c3": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "0778779f-e5fe-4d28-96a3-39829851d7c3",
+      "encounterFilterName": "Mythical (No Release)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": true,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [
+        {
+          "costume": 0,
+          "form": 150,
+          "gender": 0,
+          "pokedexId": 647
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 151
+        },
+        {
+          "costume": 0,
+          "form": 151,
+          "gender": 0,
+          "pokedexId": 648
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 721
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 251
+        },
+        {
+          "costume": 0,
+          "form": 93,
+          "gender": 0,
+          "pokedexId": 492
+        },
+        {
+          "costume": 0,
+          "form": 152,
+          "gender": 0,
+          "pokedexId": 648
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 893
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 789
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 791
+        },
+        {
+          "costume": 0,
+          "form": 2722,
+          "gender": 0,
+          "pokedexId": 801
+        },
+        {
+          "costume": 0,
+          "form": 92,
+          "gender": 0,
+          "pokedexId": 492
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 792
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 490
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 719
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 718
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 489
+        },
+        {
+          "costume": 0,
+          "form": 2721,
+          "gender": 0,
+          "pokedexId": 801
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 385
+        },
+        {
+          "costume": 0,
+          "form": 100,
+          "gender": 0,
+          "pokedexId": 493
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 802
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 494
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 807
+        },
+        {
+          "costume": 0,
+          "form": 149,
+          "gender": 0,
+          "pokedexId": 647
+        }
+      ],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "06621f25-063a-4ae5-9a3f-fcb183cdbadf": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "06621f25-063a-4ae5-9a3f-fcb183cdbadf",
+      "encounterFilterName": "Egg Hatches (No Release)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": true,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [
+        {
+          "costume": 0,
+          "form": 2340,
+          "gender": 0,
+          "pokedexId": 222
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 944
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 636
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 996
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 965
+        },
+        {
+          "costume": 0,
+          "form": 2804,
+          "gender": 0,
+          "pokedexId": 550
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 885
+        }
+      ],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "0de66dc6-cc2b-43c8-b69f-2e551a1bb497": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "0de66dc6-cc2b-43c8-b69f-2e551a1bb497",
+      "encounterFilterName": "Assortment (No Release)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "389401d0-4f13-4fe2-8d21-8556cf576193": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "389401d0-4f13-4fe2-8d21-8556cf576193",
+      "encounterFilterName": "Catch All",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": true,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "21e931b0-faee-4f72-b803-d23eaf62039d": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "21e931b0-faee-4f72-b803-d23eaf62039d",
+      "encounterFilterName": "Shiny",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": true,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "3ce1ed82-712e-4a96-9c32-3a5b28f07cc9": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "3ce1ed82-712e-4a96-9c32-3a5b28f07cc9",
+      "encounterFilterName": "Hundo (100% IV)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": true,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [
+        {
+          "ivAtk": 15,
+          "ivDef": 15,
+          "ivSta": 15
+        }
+      ],
+      "ivSumMax": 45,
+      "ivSumMin": 45,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "9ec54eb1-7eb4-467e-a737-7c87ff6670ff": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "9ec54eb1-7eb4-467e-a737-7c87ff6670ff",
+      "encounterFilterName": "Shundo (100%IV Shiny)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": true,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [
+        {
+          "ivAtk": 15,
+          "ivDef": 15,
+          "ivSta": 15
+        }
+      ],
+      "ivSumMax": 45,
+      "ivSumMin": 45,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": true,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "9a175613-07e5-4ccc-bae4-c48c90c81b95": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "9a175613-07e5-4ccc-bae4-c48c90c81b95",
+      "encounterFilterName": "Purified Hundo (100%IV)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": true,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [
+        {
+          "ivAtk": 15,
+          "ivDef": 15,
+          "ivSta": 15
+        }
+      ],
+      "ivSumMax": 45,
+      "ivSumMin": 45,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": true,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "daeb7923-b3f9-482e-b3d8-013264c53793": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "daeb7923-b3f9-482e-b3d8-013264c53793",
+      "encounterFilterName": "Purified Shundo (100%IV Shiny)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": true,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [
+        {
+          "ivAtk": 15,
+          "ivDef": 15,
+          "ivSta": 15
+        }
+      ],
+      "ivSumMax": 45,
+      "ivSumMin": 45,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": true,
+      "onlyBackground": false,
+      "onlyShiny": true,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "be47553c-7a7a-434e-9fa6-6af511f1cacb": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "be47553c-7a7a-434e-9fa6-6af511f1cacb",
+      "encounterFilterName": "Background",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": true,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "e24fdd34-ed8d-4330-ae45-ad7aea8f49d1": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "e24fdd34-ed8d-4330-ae45-ad7aea8f49d1",
+      "encounterFilterName": "Background Shiny",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": true,
+      "onlyShiny": true,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "529d1883-d1b7-4259-be7b-a113a37513c6": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "529d1883-d1b7-4259-be7b-a113a37513c6",
+      "encounterFilterName": "Background Hundo (100% IV) ",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": true,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [
+        {
+          "ivAtk": 15,
+          "ivDef": 15,
+          "ivSta": 15
+        }
+      ],
+      "ivSumMax": 45,
+      "ivSumMin": 45,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": true,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "3f195a17-3c89-458c-855c-d14ee4e1d0d4": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "3f195a17-3c89-458c-855c-d14ee4e1d0d4",
+      "encounterFilterName": "Background Shundo (100%IV Shiny)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": true,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [
+        {
+          "ivAtk": 15,
+          "ivDef": 15,
+          "ivSta": 15
+        }
+      ],
+      "ivSumMax": 45,
+      "ivSumMin": 45,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": true,
+      "onlyShiny": true,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "2c12c052-0397-4887-9d42-3fc40539cd42": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "2c12c052-0397-4887-9d42-3fc40539cd42",
+      "encounterFilterName": "XXL",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": true,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": true,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "48a1b7d5-a9a9-4bd8-8836-260febaaddb8": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "48a1b7d5-a9a9-4bd8-8836-260febaaddb8",
+      "encounterFilterName": "XXS",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": true,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": true,
+      "targetTypes": []
+    },
+    "bf09e77f-9c9e-42ca-ab93-e101ddfc48e3": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "bf09e77f-9c9e-42ca-ab93-e101ddfc48e3",
+      "encounterFilterName": "Specific Species",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "ddbf0155-7b34-46d5-8cf1-6933f9b0b348": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "ddbf0155-7b34-46d5-8cf1-6933f9b0b348",
+      "encounterFilterName": "Specific Shinies",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": true,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "e85b61a4-5414-49a7-9b0f-44dcf11a4a36": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "e85b61a4-5414-49a7-9b0f-44dcf11a4a36",
+      "encounterFilterName": "Specific Hundo (100% IV)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": true,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [
+        {
+          "ivAtk": 15,
+          "ivDef": 15,
+          "ivSta": 15
+        }
+      ],
+      "ivSumMax": 45,
+      "ivSumMin": 45,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "99db4b8d-bcf8-4ee4-9909-ce66312d193d": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "99db4b8d-bcf8-4ee4-9909-ce66312d193d",
+      "encounterFilterName": "Specific Shundo (100%IV Shiny)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": true,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [
+        {
+          "ivAtk": 15,
+          "ivDef": 15,
+          "ivSta": 15
+        }
+      ],
+      "ivSumMax": 45,
+      "ivSumMin": 45,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": true,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "e8a3f5bb-7610-4565-a806-72a5d30d0ff4": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "e8a3f5bb-7610-4565-a806-72a5d30d0ff4",
+      "encounterFilterName": "Specific PVP GL",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": true,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "c61ea2ab-83a1-4c48-84a5-b77cf01524ae": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "c61ea2ab-83a1-4c48-84a5-b77cf01524ae",
+      "encounterFilterName": "Specific PVP UL",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": true,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "f167b732-eea4-4339-9e64-1e848e522e45": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "f167b732-eea4-4339-9e64-1e848e522e45",
+      "encounterFilterName": "Specific IV",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": false,
+      "filterPokemonId": false,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": false,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "1d6e3e87-a1ce-43e1-a7cd-f8e33a49439e": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "1d6e3e87-a1ce-43e1-a7cd-f8e33a49439e",
+      "encounterFilterName": "Shiny Hunt (April 21, 2025)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": true,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": false,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [],
+      "ivSumMax": 45,
+      "ivSumMin": 0,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": true,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [
+        {
+          "costume": 0,
+          "form": 118,
+          "gender": 0,
+          "pokedexId": 412
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 366
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 21
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 919
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 302
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 69
+        },
+        {
+          "costume": 0,
+          "form": 64,
+          "gender": 0,
+          "pokedexId": 52
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 334
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 574
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 759
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 133
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 270
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 165
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 181
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 615
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 190
+        },
+        {
+          "costume": 0,
+          "form": 944,
+          "gender": 0,
+          "pokedexId": 110
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 126
+        },
+        {
+          "costume": 0,
+          "form": 3009,
+          "gender": 0,
+          "pokedexId": 194
+        },
+        {
+          "costume": 0,
+          "form": 2643,
+          "gender": 0,
+          "pokedexId": 710
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 261
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 590
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 46
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 325
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 535
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 318
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 599
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 734
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 254
+        },
+        {
+          "costume": 0,
+          "form": 2335,
+          "gender": 0,
+          "pokedexId": 52
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 453
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 928
+        },
+        {
+          "costume": 0,
+          "form": 598,
+          "gender": 0,
+          "pokedexId": 25
+        },
+        {
+          "costume": 0,
+          "form": 2618,
+          "gender": 0,
+          "pokedexId": 669
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 501
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 782
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 60
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 311
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 341
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 519
+        },
+        {
+          "costume": 0,
+          "form": 2814,
+          "gender": 0,
+          "pokedexId": 25
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 373
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 92
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 158
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 213
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 206
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 231
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 622
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 220
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 293
+        },
+        {
+          "costume": 0,
+          "form": 2168,
+          "gender": 0,
+          "pokedexId": 592
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 775
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 23
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 140
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 359
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 702
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 629
+        },
+        {
+          "costume": 0,
+          "form": 2794,
+          "gender": 0,
+          "pokedexId": 215
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 428
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 396
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 448
+        },
+        {
+          "costume": 0,
+          "form": 52,
+          "gender": 0,
+          "pokedexId": 27
+        },
+        {
+          "costume": 0,
+          "form": 2728,
+          "gender": 0,
+          "pokedexId": 100
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 39
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 761
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 572
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 624
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 661
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 179
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 208
+        },
+        {
+          "costume": 0,
+          "form": 29,
+          "gender": 0,
+          "pokedexId": 351
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 688
+        },
+        {
+          "costume": 0,
+          "form": 1080,
+          "gender": 0,
+          "pokedexId": 122
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 725
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 252
+        },
+        {
+          "costume": 0,
+          "form": 96,
+          "gender": 0,
+          "pokedexId": 422
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 163
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 316
+        },
+        {
+          "costume": 0,
+          "form": 45,
+          "gender": 0,
+          "pokedexId": 19
+        },
+        {
+          "costume": 0,
+          "form": 80,
+          "gender": 0,
+          "pokedexId": 105
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 588
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 441
+        },
+        {
+          "costume": 0,
+          "form": 586,
+          "gender": 0,
+          "pokedexId": 585
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 361
+        },
+        {
+          "costume": 0,
+          "form": 73,
+          "gender": 0,
+          "pokedexId": 88
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 32
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 455
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 309
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 10
+        },
+        {
+          "costume": 0,
+          "form": 68,
+          "gender": 0,
+          "pokedexId": 74
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 631
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 229
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 704
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 142
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 339
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 777
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 3
+        },
+        {
+          "costume": 0,
+          "form": 2339,
+          "gender": 0,
+          "pokedexId": 122
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 755
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 974
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 410
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 915
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 362
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 482
+        },
+        {
+          "costume": 0,
+          "form": 1017,
+          "gender": 0,
+          "pokedexId": 79
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 434
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 779
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 81
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 290
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 522
+        },
+        {
+          "costume": 0,
+          "form": 2615,
+          "gender": 0,
+          "pokedexId": 669
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 498
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 9
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 218
+        },
+        {
+          "costume": 0,
+          "form": 46,
+          "gender": 0,
+          "pokedexId": 19
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 322
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 739
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 185
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 626
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 130
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 610
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 241
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 137
+        },
+        {
+          "costume": 0,
+          "form": 50,
+          "gender": 0,
+          "pokedexId": 26
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 570
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 90
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 225
+        },
+        {
+          "costume": 0,
+          "form": 120,
+          "gender": 0,
+          "pokedexId": 412
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 234
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 369
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 714
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 338
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 515
+        },
+        {
+          "costume": 0,
+          "form": 2804,
+          "gender": 0,
+          "pokedexId": 550
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 619
+        },
+        {
+          "costume": 0,
+          "form": 2680,
+          "gender": 0,
+          "pokedexId": 741
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 417
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 443
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 16
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 355
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 403
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 345
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 531
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 104
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 114
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 227
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 698
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 906
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 176
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 209
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 633
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 257
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 684
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 304
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 56
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 538
+        },
+        {
+          "costume": 0,
+          "form": 2341,
+          "gender": 0,
+          "pokedexId": 554
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 556
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 753
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 315
+        },
+        {
+          "costume": 0,
+          "form": 2345,
+          "gender": 0,
+          "pokedexId": 618
+        },
+        {
+          "costume": 0,
+          "form": 2344,
+          "gender": 0,
+          "pokedexId": 562
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 107
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 202
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 436
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 7
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 480
+        },
+        {
+          "costume": 0,
+          "form": 2063,
+          "gender": 0,
+          "pokedexId": 554
+        },
+        {
+          "costume": 0,
+          "form": 1259,
+          "gender": 0,
+          "pokedexId": 211
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 408
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 540
+        },
+        {
+          "costume": 0,
+          "form": 59,
+          "gender": 0,
+          "pokedexId": 50
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 320
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 123
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 248
+        },
+        {
+          "costume": 0,
+          "form": 2336,
+          "gender": 0,
+          "pokedexId": 77
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 183
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 672
+        },
+        {
+          "costume": 0,
+          "form": 1226,
+          "gender": 0,
+          "pokedexId": 194
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 95
+        },
+        {
+          "costume": 0,
+          "form": 2813,
+          "gender": 0,
+          "pokedexId": 25
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 283
+        },
+        {
+          "costume": 0,
+          "form": 2642,
+          "gender": 0,
+          "pokedexId": 710
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 276
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 336
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 568
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 524
+        },
+        {
+          "costume": 0,
+          "form": 2683,
+          "gender": 0,
+          "pokedexId": 741
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 35
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 577
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 765
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 431
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 415
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 445
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 401
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 459
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 371
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 517
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 387
+        },
+        {
+          "costume": 0,
+          "form": 55,
+          "gender": 0,
+          "pokedexId": 37
+        },
+        {
+          "costume": 0,
+          "form": 136,
+          "gender": 0,
+          "pokedexId": 550
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 313
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 561
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 72
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 299
+        },
+        {
+          "costume": 0,
+          "form": 31,
+          "gender": 0,
+          "pokedexId": 351
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 102
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 343
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 656
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 167
+        },
+        {
+          "costume": 0,
+          "form": 2340,
+          "gender": 0,
+          "pokedexId": 222
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 686
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 605
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 116
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 204
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 65
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 306
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 109
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 255
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 357
+        },
+        {
+          "costume": 0,
+          "form": 2084,
+          "gender": 0,
+          "pokedexId": 562
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 831
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 278
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 751
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 310
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 29
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 582
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 374
+        },
+        {
+          "costume": 0,
+          "form": 2675,
+          "gender": 0,
+          "pokedexId": 25
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 214
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 694
+        },
+        {
+          "costume": 0,
+          "form": 945,
+          "gender": 0,
+          "pokedexId": 263
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 559
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 767
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 86
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 566
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 349
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 495
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 13
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 358
+        },
+        {
+          "costume": 0,
+          "form": 30,
+          "gender": 0,
+          "pokedexId": 351
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 285
+        },
+        {
+          "costume": 0,
+          "form": 2338,
+          "gender": 0,
+          "pokedexId": 83
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 399
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 333
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 728
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 509
+        },
+        {
+          "costume": 0,
+          "form": 587,
+          "gender": 0,
+          "pokedexId": 585
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 191
+        },
+        {
+          "costume": 0,
+          "form": 1023,
+          "gender": 0,
+          "pokedexId": 83
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 198
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 125
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 246
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 607
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 111
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 742
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 527
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 308
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 808
+        },
+        {
+          "costume": 0,
+          "form": 1047,
+          "gender": 0,
+          "pokedexId": 100
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 118
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 870
+        },
+        {
+          "costume": 0,
+          "form": 67,
+          "gender": 0,
+          "pokedexId": 74
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 420
+        },
+        {
+          "costume": 0,
+          "form": 2644,
+          "gender": 0,
+          "pokedexId": 710
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 909
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 456
+        },
+        {
+          "costume": 0,
+          "form": 280,
+          "gender": 0,
+          "pokedexId": 58
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 324
+        },
+        {
+          "costume": 0,
+          "form": 797,
+          "gender": 0,
+          "pokedexId": 215
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 63
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 769
+        },
+        {
+          "costume": 0,
+          "form": 2330,
+          "gender": 0,
+          "pokedexId": 592
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 260
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 155
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 749
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 228
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 280
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 676
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 216
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 143
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 696
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 632
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 84
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 564
+        },
+        {
+          "costume": 0,
+          "form": 119,
+          "gender": 0,
+          "pokedexId": 412
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 296
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 287
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 557
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 513
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 4
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 712
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 347
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 223
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 427
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 449
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 303
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 543
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 331
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 18
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 529
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 207
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 353
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 193
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 667
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 200
+        },
+        {
+          "costume": 0,
+          "form": 1283,
+          "gender": 0,
+          "pokedexId": 222
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 237
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 127
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 602
+        },
+        {
+          "costume": 0,
+          "form": 2681,
+          "gender": 0,
+          "pokedexId": 741
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 120
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 616
+        },
+        {
+          "costume": 0,
+          "form": 63,
+          "gender": 0,
+          "pokedexId": 52
+        },
+        {
+          "costume": 0,
+          "form": 51,
+          "gender": 0,
+          "pokedexId": 27
+        },
+        {
+          "costume": 0,
+          "form": 2617,
+          "gender": 0,
+          "pokedexId": 669
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 580
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 653
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 54
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 273
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 587
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 98
+        },
+        {
+          "costume": 0,
+          "form": 78,
+          "gender": 0,
+          "pokedexId": 103
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 390
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 682
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 418
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 370
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 1
+        },
+        {
+          "costume": 0,
+          "form": 1011,
+          "gender": 0,
+          "pokedexId": 77
+        },
+        {
+          "costume": 0,
+          "form": 2788,
+          "gender": 0,
+          "pokedexId": 211
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 314
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 282
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 41
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 258
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 354
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 594
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 113
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 659
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 170
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 201
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 650
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 161
+        },
+        {
+          "costume": 0,
+          "form": 2679,
+          "gender": 0,
+          "pokedexId": 741
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 177
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 106
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 595
+        },
+        {
+          "costume": 0,
+          "form": 585,
+          "gender": 0,
+          "pokedexId": 585
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 690
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 747
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 66
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 546
+        },
+        {
+          "costume": 0,
+          "form": 97,
+          "gender": 0,
+          "pokedexId": 422
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 506
+        },
+        {
+          "costume": 0,
+          "form": 60,
+          "gender": 0,
+          "pokedexId": 50
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 265
+        },
+        {
+          "costume": 0,
+          "form": 137,
+          "gender": 0,
+          "pokedexId": 550
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 425
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 451
+        },
+        {
+          "costume": 0,
+          "form": 2792,
+          "gender": 0,
+          "pokedexId": 58
+        },
+        {
+          "costume": 0,
+          "form": 2246,
+          "gender": 0,
+          "pokedexId": 618
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 48
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 363
+        },
+        {
+          "costume": 0,
+          "form": 2641,
+          "gender": 0,
+          "pokedexId": 710
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 187
+        },
+        {
+          "costume": 0,
+          "form": 74,
+          "gender": 0,
+          "pokedexId": 88
+        },
+        {
+          "costume": 0,
+          "form": 32,
+          "gender": 0,
+          "pokedexId": 351
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 147
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 96
+        },
+        {
+          "costume": 0,
+          "form": 2616,
+          "gender": 0,
+          "pokedexId": 669
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 819
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 129
+        },
+        {
+          "costume": 0,
+          "form": 1086,
+          "gender": 0,
+          "pokedexId": 128
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 337
+        },
+        {
+          "costume": 0,
+          "form": 2582,
+          "gender": 0,
+          "pokedexId": 79
+        },
+        {
+          "costume": 0,
+          "form": 3012,
+          "gender": 0,
+          "pokedexId": 25
+        },
+        {
+          "costume": 0,
+          "form": 946,
+          "gender": 0,
+          "pokedexId": 263
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 43
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 460
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 300
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 532
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 312
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 203
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 736
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 115
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 152
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 307
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 548
+        },
+        {
+          "costume": 0,
+          "form": 56,
+          "gender": 0,
+          "pokedexId": 37
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 597
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 15
+        },
+        {
+          "costume": 0,
+          "form": 2614,
+          "gender": 0,
+          "pokedexId": 669
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 212
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 692
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 504
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 108
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 393
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 6
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 481
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 335
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 539
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 80
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 94
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 511
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 124
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 613
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 708
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 138
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 722
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 131
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 226
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 627
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 766
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 328
+        },
+        {
+          "costume": 0,
+          "form": 588,
+          "gender": 0,
+          "pokedexId": 585
+        }
+      ],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "04ea11be-69f9-49c7-9658-5bbcf4b97a7d": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "04ea11be-69f9-49c7-9658-5bbcf4b97a7d",
+      "encounterFilterName": "Shundo Hunt (April 21, 2025)",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": true,
+      "filterShowcaseScore": false,
+      "filterSize": false,
+      "filterSpecificIv": true,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [
+        {
+          "ivAtk": 15,
+          "ivDef": 15,
+          "ivSta": 15
+        }
+      ],
+      "ivSumMax": 45,
+      "ivSumMin": 45,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": false,
+      "onlyBackground": false,
+      "onlyShiny": true,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [
+        {
+          "costume": 0,
+          "form": 118,
+          "gender": 0,
+          "pokedexId": 412
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 366
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 21
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 919
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 302
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 69
+        },
+        {
+          "costume": 0,
+          "form": 64,
+          "gender": 0,
+          "pokedexId": 52
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 334
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 574
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 759
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 133
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 270
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 165
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 181
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 615
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 190
+        },
+        {
+          "costume": 0,
+          "form": 944,
+          "gender": 0,
+          "pokedexId": 110
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 126
+        },
+        {
+          "costume": 0,
+          "form": 3009,
+          "gender": 0,
+          "pokedexId": 194
+        },
+        {
+          "costume": 0,
+          "form": 2643,
+          "gender": 0,
+          "pokedexId": 710
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 261
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 590
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 46
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 325
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 535
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 318
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 599
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 734
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 254
+        },
+        {
+          "costume": 0,
+          "form": 2335,
+          "gender": 0,
+          "pokedexId": 52
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 453
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 928
+        },
+        {
+          "costume": 0,
+          "form": 598,
+          "gender": 0,
+          "pokedexId": 25
+        },
+        {
+          "costume": 0,
+          "form": 2618,
+          "gender": 0,
+          "pokedexId": 669
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 501
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 782
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 60
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 311
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 341
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 519
+        },
+        {
+          "costume": 0,
+          "form": 2814,
+          "gender": 0,
+          "pokedexId": 25
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 373
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 92
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 158
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 213
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 206
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 231
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 622
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 220
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 293
+        },
+        {
+          "costume": 0,
+          "form": 2168,
+          "gender": 0,
+          "pokedexId": 592
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 775
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 23
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 140
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 359
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 702
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 629
+        },
+        {
+          "costume": 0,
+          "form": 2794,
+          "gender": 0,
+          "pokedexId": 215
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 428
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 396
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 448
+        },
+        {
+          "costume": 0,
+          "form": 52,
+          "gender": 0,
+          "pokedexId": 27
+        },
+        {
+          "costume": 0,
+          "form": 2728,
+          "gender": 0,
+          "pokedexId": 100
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 39
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 761
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 572
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 624
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 661
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 179
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 208
+        },
+        {
+          "costume": 0,
+          "form": 29,
+          "gender": 0,
+          "pokedexId": 351
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 688
+        },
+        {
+          "costume": 0,
+          "form": 1080,
+          "gender": 0,
+          "pokedexId": 122
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 725
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 252
+        },
+        {
+          "costume": 0,
+          "form": 96,
+          "gender": 0,
+          "pokedexId": 422
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 163
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 316
+        },
+        {
+          "costume": 0,
+          "form": 45,
+          "gender": 0,
+          "pokedexId": 19
+        },
+        {
+          "costume": 0,
+          "form": 80,
+          "gender": 0,
+          "pokedexId": 105
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 588
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 441
+        },
+        {
+          "costume": 0,
+          "form": 586,
+          "gender": 0,
+          "pokedexId": 585
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 361
+        },
+        {
+          "costume": 0,
+          "form": 73,
+          "gender": 0,
+          "pokedexId": 88
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 32
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 455
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 309
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 10
+        },
+        {
+          "costume": 0,
+          "form": 68,
+          "gender": 0,
+          "pokedexId": 74
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 631
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 229
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 704
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 142
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 339
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 777
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 3
+        },
+        {
+          "costume": 0,
+          "form": 2339,
+          "gender": 0,
+          "pokedexId": 122
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 755
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 974
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 410
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 915
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 362
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 482
+        },
+        {
+          "costume": 0,
+          "form": 1017,
+          "gender": 0,
+          "pokedexId": 79
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 434
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 779
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 81
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 290
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 522
+        },
+        {
+          "costume": 0,
+          "form": 2615,
+          "gender": 0,
+          "pokedexId": 669
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 498
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 9
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 218
+        },
+        {
+          "costume": 0,
+          "form": 46,
+          "gender": 0,
+          "pokedexId": 19
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 322
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 739
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 185
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 626
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 130
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 610
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 241
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 137
+        },
+        {
+          "costume": 0,
+          "form": 50,
+          "gender": 0,
+          "pokedexId": 26
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 570
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 90
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 225
+        },
+        {
+          "costume": 0,
+          "form": 120,
+          "gender": 0,
+          "pokedexId": 412
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 234
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 369
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 714
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 338
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 515
+        },
+        {
+          "costume": 0,
+          "form": 2804,
+          "gender": 0,
+          "pokedexId": 550
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 619
+        },
+        {
+          "costume": 0,
+          "form": 2680,
+          "gender": 0,
+          "pokedexId": 741
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 417
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 443
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 16
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 355
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 403
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 345
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 531
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 104
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 114
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 227
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 698
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 906
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 176
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 209
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 633
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 257
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 684
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 304
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 56
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 538
+        },
+        {
+          "costume": 0,
+          "form": 2341,
+          "gender": 0,
+          "pokedexId": 554
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 556
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 753
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 315
+        },
+        {
+          "costume": 0,
+          "form": 2345,
+          "gender": 0,
+          "pokedexId": 618
+        },
+        {
+          "costume": 0,
+          "form": 2344,
+          "gender": 0,
+          "pokedexId": 562
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 107
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 202
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 436
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 7
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 480
+        },
+        {
+          "costume": 0,
+          "form": 2063,
+          "gender": 0,
+          "pokedexId": 554
+        },
+        {
+          "costume": 0,
+          "form": 1259,
+          "gender": 0,
+          "pokedexId": 211
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 408
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 540
+        },
+        {
+          "costume": 0,
+          "form": 59,
+          "gender": 0,
+          "pokedexId": 50
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 320
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 123
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 248
+        },
+        {
+          "costume": 0,
+          "form": 2336,
+          "gender": 0,
+          "pokedexId": 77
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 183
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 672
+        },
+        {
+          "costume": 0,
+          "form": 1226,
+          "gender": 0,
+          "pokedexId": 194
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 95
+        },
+        {
+          "costume": 0,
+          "form": 2813,
+          "gender": 0,
+          "pokedexId": 25
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 283
+        },
+        {
+          "costume": 0,
+          "form": 2642,
+          "gender": 0,
+          "pokedexId": 710
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 276
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 336
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 568
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 524
+        },
+        {
+          "costume": 0,
+          "form": 2683,
+          "gender": 0,
+          "pokedexId": 741
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 35
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 577
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 765
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 431
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 415
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 445
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 401
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 459
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 371
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 517
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 387
+        },
+        {
+          "costume": 0,
+          "form": 55,
+          "gender": 0,
+          "pokedexId": 37
+        },
+        {
+          "costume": 0,
+          "form": 136,
+          "gender": 0,
+          "pokedexId": 550
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 313
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 561
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 72
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 299
+        },
+        {
+          "costume": 0,
+          "form": 31,
+          "gender": 0,
+          "pokedexId": 351
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 102
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 343
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 656
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 167
+        },
+        {
+          "costume": 0,
+          "form": 2340,
+          "gender": 0,
+          "pokedexId": 222
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 686
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 605
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 116
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 204
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 65
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 306
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 109
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 255
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 357
+        },
+        {
+          "costume": 0,
+          "form": 2084,
+          "gender": 0,
+          "pokedexId": 562
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 831
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 278
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 751
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 310
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 29
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 582
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 374
+        },
+        {
+          "costume": 0,
+          "form": 2675,
+          "gender": 0,
+          "pokedexId": 25
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 214
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 694
+        },
+        {
+          "costume": 0,
+          "form": 945,
+          "gender": 0,
+          "pokedexId": 263
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 559
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 767
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 86
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 566
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 349
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 495
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 13
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 358
+        },
+        {
+          "costume": 0,
+          "form": 30,
+          "gender": 0,
+          "pokedexId": 351
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 285
+        },
+        {
+          "costume": 0,
+          "form": 2338,
+          "gender": 0,
+          "pokedexId": 83
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 399
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 333
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 728
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 509
+        },
+        {
+          "costume": 0,
+          "form": 587,
+          "gender": 0,
+          "pokedexId": 585
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 191
+        },
+        {
+          "costume": 0,
+          "form": 1023,
+          "gender": 0,
+          "pokedexId": 83
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 198
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 125
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 246
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 607
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 111
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 742
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 527
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 308
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 808
+        },
+        {
+          "costume": 0,
+          "form": 1047,
+          "gender": 0,
+          "pokedexId": 100
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 118
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 870
+        },
+        {
+          "costume": 0,
+          "form": 67,
+          "gender": 0,
+          "pokedexId": 74
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 420
+        },
+        {
+          "costume": 0,
+          "form": 2644,
+          "gender": 0,
+          "pokedexId": 710
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 909
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 456
+        },
+        {
+          "costume": 0,
+          "form": 280,
+          "gender": 0,
+          "pokedexId": 58
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 324
+        },
+        {
+          "costume": 0,
+          "form": 797,
+          "gender": 0,
+          "pokedexId": 215
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 63
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 769
+        },
+        {
+          "costume": 0,
+          "form": 2330,
+          "gender": 0,
+          "pokedexId": 592
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 260
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 155
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 749
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 228
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 280
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 676
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 216
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 143
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 696
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 632
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 84
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 564
+        },
+        {
+          "costume": 0,
+          "form": 119,
+          "gender": 0,
+          "pokedexId": 412
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 296
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 287
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 557
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 513
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 4
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 712
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 347
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 223
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 427
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 449
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 303
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 543
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 331
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 18
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 529
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 207
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 353
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 193
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 667
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 200
+        },
+        {
+          "costume": 0,
+          "form": 1283,
+          "gender": 0,
+          "pokedexId": 222
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 237
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 127
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 602
+        },
+        {
+          "costume": 0,
+          "form": 2681,
+          "gender": 0,
+          "pokedexId": 741
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 120
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 616
+        },
+        {
+          "costume": 0,
+          "form": 63,
+          "gender": 0,
+          "pokedexId": 52
+        },
+        {
+          "costume": 0,
+          "form": 51,
+          "gender": 0,
+          "pokedexId": 27
+        },
+        {
+          "costume": 0,
+          "form": 2617,
+          "gender": 0,
+          "pokedexId": 669
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 580
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 653
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 54
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 273
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 587
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 98
+        },
+        {
+          "costume": 0,
+          "form": 78,
+          "gender": 0,
+          "pokedexId": 103
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 390
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 682
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 418
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 370
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 1
+        },
+        {
+          "costume": 0,
+          "form": 1011,
+          "gender": 0,
+          "pokedexId": 77
+        },
+        {
+          "costume": 0,
+          "form": 2788,
+          "gender": 0,
+          "pokedexId": 211
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 314
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 282
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 41
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 258
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 354
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 594
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 113
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 659
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 170
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 201
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 650
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 161
+        },
+        {
+          "costume": 0,
+          "form": 2679,
+          "gender": 0,
+          "pokedexId": 741
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 177
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 106
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 595
+        },
+        {
+          "costume": 0,
+          "form": 585,
+          "gender": 0,
+          "pokedexId": 585
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 690
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 747
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 66
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 546
+        },
+        {
+          "costume": 0,
+          "form": 97,
+          "gender": 0,
+          "pokedexId": 422
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 506
+        },
+        {
+          "costume": 0,
+          "form": 60,
+          "gender": 0,
+          "pokedexId": 50
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 265
+        },
+        {
+          "costume": 0,
+          "form": 137,
+          "gender": 0,
+          "pokedexId": 550
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 425
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 451
+        },
+        {
+          "costume": 0,
+          "form": 2792,
+          "gender": 0,
+          "pokedexId": 58
+        },
+        {
+          "costume": 0,
+          "form": 2246,
+          "gender": 0,
+          "pokedexId": 618
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 48
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 363
+        },
+        {
+          "costume": 0,
+          "form": 2641,
+          "gender": 0,
+          "pokedexId": 710
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 187
+        },
+        {
+          "costume": 0,
+          "form": 74,
+          "gender": 0,
+          "pokedexId": 88
+        },
+        {
+          "costume": 0,
+          "form": 32,
+          "gender": 0,
+          "pokedexId": 351
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 147
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 96
+        },
+        {
+          "costume": 0,
+          "form": 2616,
+          "gender": 0,
+          "pokedexId": 669
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 819
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 129
+        },
+        {
+          "costume": 0,
+          "form": 1086,
+          "gender": 0,
+          "pokedexId": 128
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 337
+        },
+        {
+          "costume": 0,
+          "form": 2582,
+          "gender": 0,
+          "pokedexId": 79
+        },
+        {
+          "costume": 0,
+          "form": 3012,
+          "gender": 0,
+          "pokedexId": 25
+        },
+        {
+          "costume": 0,
+          "form": 946,
+          "gender": 0,
+          "pokedexId": 263
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 43
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 460
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 300
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 532
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 312
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 203
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 736
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 115
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 152
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 307
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 548
+        },
+        {
+          "costume": 0,
+          "form": 56,
+          "gender": 0,
+          "pokedexId": 37
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 597
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 15
+        },
+        {
+          "costume": 0,
+          "form": 2614,
+          "gender": 0,
+          "pokedexId": 669
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 212
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 692
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 504
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 108
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 393
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 6
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 481
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 335
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 539
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 80
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 94
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 511
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 124
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 613
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 708
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 138
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 722
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 131
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 226
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 627
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 766
+        },
+        {
+          "costume": 0,
+          "form": 0,
+          "gender": 0,
+          "pokedexId": 328
+        },
+        {
+          "costume": 0,
+          "form": 588,
+          "gender": 0,
+          "pokedexId": 585
+        }
+      ],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": false,
+      "sizeXxs": false,
+      "targetTypes": []
+    },
+    "fa4e5dc4-eba0-42b9-aa7d-8c773927bce1": {
+      "catchOptionsBerries": [],
+      "catchOptionsPokeballs": [],
+      "cpMax": 0,
+      "cpMin": 0,
+      "enabled": true,
+      "encounterFilterId": "fa4e5dc4-eba0-42b9-aa7d-8c773927bce1",
+      "encounterFilterName": "DO NOT CATCH ANYTHING",
+      "filterCp": false,
+      "filterGreatLeagueTopRank": false,
+      "filterIvSum": false,
+      "filterLevel": false,
+      "filterOnlyCatch": true,
+      "filterPokemonId": true,
+      "filterShowcaseScore": false,
+      "filterSize": true,
+      "filterSpecificIv": true,
+      "filterType": false,
+      "filterUltraLeagueTopRank": false,
+      "ivSets": [
+        {
+          "ivAtk": 15,
+          "ivDef": 15,
+          "ivSta": 15
+        }
+      ],
+      "ivSumMax": 45,
+      "ivSumMin": 45,
+      "levelMax": 55,
+      "levelMin": 1,
+      "minShowcaseScore": 0,
+      "onlyApplyPurificationBonus": true,
+      "onlyBackground": true,
+      "onlyShiny": true,
+      "pokemonDetailsCatchOriginDmax": false,
+      "pokemonId": [
+        {
+          "costume": 0,
+          "form": 2997,
+          "gender": 0,
+          "pokedexId": 1008
+        }
+      ],
+      "sizeXl": false,
+      "sizeXs": false,
+      "sizeXxl": true,
+      "sizeXxs": false,
+      "targetTypes": []
+    }
+  }
+}
