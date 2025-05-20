@@ -30,6 +30,14 @@
       "url" : "https://apkcombo.com/zh/pokemon-go/com.nianticlabs.pokemongo/download/apk"
     },
     {
+      "name" : "PlayIntegrityFix\nv19.1\nMagisk模组",
+      "url" : "https://github.com/chiteroman/PlayIntegrityFix/releases/download/v19.1/PlayIntegrityFix_v19.1.zip"
+    },
+    {
+      "name" : "PlayIntegrityFix\nv19.1\n三星版go登录修复\nMagisk模组",
+      "url" : "http://shiny.wvdesign.tw/file/modules/magisk/PlayIntegrityFix_v19.1_smasung.zip"
+    },
+    {
       "name" : "Aerilate英文原版\nv0.2.1",
       "url" : "https://dl.aerilate.evermorelabs.io/apk/com.evermorelabs.aerilate-0.2.1.apk"
     },
@@ -66,7 +74,7 @@
       "url" : "https://pokemod.dev/zh/"
     },
     {
-      "name" : "shungo官网\n打火箭队团战",
+      "name" : "Shungo官网\n打火箭队团战",
       "url" : "https://shungo.app"
     },
     {
@@ -166,7 +174,7 @@
       "url" : "https://play.google.com/store/apps/details?id=com.pushbullet.android&referrer=utm_source%3Dpushbullet.com"
     },
     {
-      "name" : "mt管理器\n官网下载",
+      "name" : "MT管理器\n官网下载",
       "url" : "https://mt2.cn"
     },
     {
@@ -186,7 +194,7 @@
       "url" : "https://play.google.com/store/apps/details/Google_Play_services?id=com.google.android.gms"
     },
     {
-      "name" : "discord组织\n谷歌商店下载",
+      "name" : "Discord组织\n谷歌商店下载",
       "url" : "https://play.google.com/store/apps/details?id=com.discord"
     },
     {
@@ -200,6 +208,10 @@
     {
       "name" : "修复AR模组\nDeviceFeaturesEnabler\nv0.4\nMagisk模组",
       "url" : "https://github.com/collterpy/Device-Features-Enabler-Magisk-Module/releases/download/untagged-683e3cedff8b00a44448/DeviceFeaturesEnabler-MagiskModule-20240824012430.zip"
+    },
+    {
+      "name" : "HideMockLocation\nv2.1.4\n可修复三星手机定位问题",
+      "url" : "https://share.feijipan.com/s/1Q0AZL7K"
     },
     {
       "name" : "lsp谷歌翻译插件\n勾选POKEMOD\n勾选DISCORD\nv1.4.12",
